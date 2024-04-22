@@ -1,0 +1,127 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/argentina.xml"
+#EXTINF:-1  tvg-id="AMERICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" user-agent="iPhone",AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1  tvg-id="TV PUBLICA" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png",TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1  tvg-id="CANAL 9" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElNueve.png",EL NUEVE
+https://ythls.armelin.one/video/o3b8pM9pR5Q.m3u8
+#EXTINF:-1  tvg-id="TELEFE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1  tvg-id="EL TRECE" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png",EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png",NET TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="LA NACION+" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LN+.png",LA NACION+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1  tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1  tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" user-agent="iPhone",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1  tvg-id="CRONICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png",CRONICA
+https://g1.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:-1  tvg-id="C5N" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/C5N.png",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1  tvg-id="Canal 26" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal26.png",CANAL 26
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1  tvg-id="DTV" group-title="ARGENTINA" tvg-logo="",DIPUTADOS TV
+https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" group-title="ARGENTINA" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",CANAL E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="DeporTV.ar" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png",DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1  tvg-id="ESPN PREMIUM" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1  tvg-id="TNT SPORTS" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png",TNT SPORTS
+
+#EXTINF:-1  tvg-id="TYC SPORTS" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png",ESPN 3
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png",ESPN 4
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png",ESPN 5
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png",ESPN 6
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 7" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="FOX SPORTS ARGENTINA" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports.png",FOX SPORTS 1
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/175
+#EXTINF:-1  tvg-id="FOX SPORTS 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/176
+#EXTINF:-1  tvg-id="FOX SPORTS 3" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports3.png",FOX SPORTS 3
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/177
+#EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="",DIRECTV SPORT
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/107649
+#EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="",DIRECTV SPORT 2
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/75988
+#EXTINF:-1  tvg-id="AandE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/320px-A%26E_Network_logo.svg.png",A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png",AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG",AXN
+http://170.254.18.106/AXN/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png",CINECANAL
+http://170.254.18.106/CINECANAL/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+http://170.254.18.106/CINEMAX/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png",FX
+http://170.254.18.106/FX/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png",HBO
+http://190.171.101.36/HBO/tracks-v3a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/310px-HBO_Family.svg.png",HBO FAMILY
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/320px-HBO_Pop.svg.png",HBO POP
+http://170.254.18.106/HBO_POP/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/320px-HBO_Xtreme.svg.png",HBO XTREME
+http://170.254.18.106/HBO_XTREME/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="N/A",HBO PLUS
+http://170.254.18.106:80/HBO_PLUS/tracks-v2a2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO SIGNATURE
+http://170.254.18.106/HBO_SIG/tracks-v2a2/mono.m3u8
+#EXTINF:-1  tvg-id="PARAMOUNT CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/298px-Paramount_Pictures_2022_%28Blue%29.svg.png",PARAMOUNT
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="N/A",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png",SPACE
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png",STAR CHANNEL HD
+http://170.254.18.106/STAR/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
+http://190.119.178.46:8000/play/a026/index.m3u8
+#EXTINF:-1  tvg-id="TNTSouth.us" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png",TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
+http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="",UNIVERSAL
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1  tvg-id="WARNER CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/248px-Warner_Channel.svg.png",WARNER
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN PLUS
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN PREMIER
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN 2
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",SONY CHANNEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",SONY CINE
+https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",MULTIPREMIER
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",Películas 2
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="", MC
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",DREAMWORKS CHANNEL
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
