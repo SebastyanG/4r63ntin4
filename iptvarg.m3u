@@ -81,13 +81,13 @@ http://170.254.18.106:80/HBO_FAMILY/index.m3u8
 http://170.254.18.106/HBO_POP/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/320px-HBO_Xtreme.svg.png",HBO XTREME
 http://170.254.18.106/HBO_XTREME/tracks-v2a2/mono.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="N/A",HBO PLUS
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS
 http://170.254.18.106:80/HBO_PLUS/tracks-v2a2/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO SIGNATURE
 http://170.254.18.106/HBO_SIG/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="PARAMOUNT CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/298px-Paramount_Pictures_2022_%28Blue%29.svg.png",PARAMOUNT
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="N/A",SONY MOVIES
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png",SONY MOVIES
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png",SPACE
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
@@ -101,21 +101,21 @@ http://190.119.178.46:8000/play/a026/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="",UNIVERSAL
+#EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/320px-Universal-Pictures-Logo.svg.png",UNIVERSAL
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1  tvg-id="WARNER CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/248px-Warner_Channel.svg.png",WARNER
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN EDGE
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN PLUS
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest?cb=20210512164553&path-prefix=es",GOLDEN PLUS
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN PREMIER
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es",GOLDEN PREMIER
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",GOLDEN 2
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",SONY CHANNEL
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",SONY CINE
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",SONY CINE
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",MULTIPREMIER
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
