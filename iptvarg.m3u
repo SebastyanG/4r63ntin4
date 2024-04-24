@@ -1,5 +1,7 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/argentina.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/argentina.xml;https://www.tdtchannels.com/epg/TV.xml"
+
 #EXTINF:-1  tvg-id="AMERICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" user-agent="iPhone",AMERICA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1  tvg-id="TV PUBLICA" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
@@ -15,9 +17,11 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1  tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1  tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" user-agent="iPhone",A24
+#EXTINF:-1  tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1  tvg-id="CRONICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png",CRONICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1  tvg-id="C5N" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/C5N.png",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
@@ -34,7 +38,7 @@ https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1  tvg-id="TNT SPORTS" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png",TNT SPORTS
 
 #EXTINF:-1  tvg-id="TYC SPORTS" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2
