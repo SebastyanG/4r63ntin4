@@ -34,9 +34,9 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="DXTV" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1  tvg-id="ESPN PREMIUM" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1  tvg-id="TNT SPORTS" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png",TNT SPORTS
-
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1  tvg-id="TYC SPORTS" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
