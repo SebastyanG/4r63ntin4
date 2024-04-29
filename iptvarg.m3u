@@ -14,7 +14,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png",NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="LA NACION+" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LN+.png",LA NACION+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+https://ythls.armelin.one/video/ocFG3yor--M.m3u8
 #EXTINF:-1  tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1  tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png",A24
