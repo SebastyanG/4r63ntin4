@@ -54,7 +54,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS ARGENTINA" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports.png",FOX SPORTS 1
-https://ltinversionistas.com/jactv/foxsp.php
+
 #EXTINF:-1  tvg-id="FOX SPORTS 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2
 
 #EXTINF:-1  tvg-id="FOX SPORTS 3" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports3.png",FOX SPORTS 3
@@ -66,7 +66,7 @@ https://ltinversionistas.com/jactv/foxsp.php
 #EXTINF:-1  tvg-id="AandE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/320px-A%26E_Network_logo.svg.png",A&E
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png",AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+http://138.59.177.34:8000/play/a02m/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG",AXN
 http://170.254.18.106/AXN/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png",CINECANAL
@@ -90,11 +90,11 @@ http://170.254.18.106:80/HBO_PLUS/tracks-v2a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1920px-HBO_Signature.svg.png",HBO SIGNATURE
 http://170.254.18.106/HBO_SIG/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="PARAMOUNT CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/298px-Paramount_Pictures_2022_%28Blue%29.svg.png",PARAMOUNT
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png",SONY MOVIES
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png",SPACE
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+http://138.59.177.34:8000/play/a02c/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png",STAR CHANNEL HD
 http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
@@ -128,4 +128,5 @@ http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="", MC
 http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",DREAMWORKS CHANNEL
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+
