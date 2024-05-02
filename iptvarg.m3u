@@ -64,7 +64,7 @@ https://ltinversionistas.com/jactv/foxsp.php
 #EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/320px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORT 2
 
 #EXTINF:-1  tvg-id="AandE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/320px-A%26E_Network_logo.svg.png",A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png",AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG",AXN
@@ -92,13 +92,13 @@ http://170.254.18.106/HBO_SIG/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="PARAMOUNT CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/298px-Paramount_Pictures_2022_%28Blue%29.svg.png",PARAMOUNT
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png",SONY MOVIES
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png",SPACE
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png",STAR CHANNEL HD
-http://170.254.18.106/STAR/tracks-v1a1/mono.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://190.119.178.46:8000/play/a026/index.m3u8
 #EXTINF:-1  tvg-id="TNTSouth.us" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png",TNT
@@ -106,7 +106,7 @@ http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 #EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/320px-Universal-Pictures-Logo.svg.png",UNIVERSAL
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="WARNER CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/248px-Warner_Channel.svg.png",WARNER
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1  tvg-id="GoldenEdgePanregional.mx" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
@@ -118,7 +118,7 @@ https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="GoldenPanregional.mx" group-title="ARGENTINA" tvg-logo="",GOLDEN 2
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="SonyChannelAndes.us" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",SONY CINE
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",MULTIPREMIER
