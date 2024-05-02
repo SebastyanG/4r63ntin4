@@ -101,10 +101,12 @@ http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://190.119.178.46:8000/play/a026/index.m3u8
-#EXTINF:-1  tvg-id="TNTSouth.us" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png",TNT
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1  tvg-id="TNTSouth.us" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png",TNT
+http://138.59.177.34:8000/play/a02l/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
-http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+http://138.59.177.34:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156",TNT Novelas
+http://138.59.177.34:8000/play/a02e/index.m3u8
 #EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/320px-Universal-Pictures-Logo.svg.png",UNIVERSAL
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="WARNER CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/248px-Warner_Channel.svg.png",WARNER
@@ -121,12 +123,11 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",SONY CINE
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",MULTIPREMIER
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png",MULTIPREMIER
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",Películas 2
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="", MC
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png", MC
 http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",DREAMWORKS CHANNEL
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DREAMWORKS CHANNEL
 http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
-
