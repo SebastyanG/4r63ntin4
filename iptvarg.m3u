@@ -34,7 +34,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="DXTV" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1  tvg-id="ESPN PREMIUM" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+http://pe.shortgod.com/awester/tv6.php?id=165
 #EXTINF:-1  tvg-id="TNT SPORTS" group-title="ARGENTINA" tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png",TNT SPORTS
 https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1  tvg-id="TYC SPORTS" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC SPORTS
@@ -54,19 +54,19 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS ARGENTINA" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports.png",FOX SPORTS 1
-
+http://pe.shortgod.com/awester/tv6.php?id=12
 #EXTINF:-1  tvg-id="FOX SPORTS 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2
-
+http://pe.shortgod.com/awester/tv6.php?id=13
 #EXTINF:-1  tvg-id="FOX SPORTS 3" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports3.png",FOX SPORTS 3
-
+http://pe.shortgod.com/awester/tv6.php?id=14
 #EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/320px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORT
-
+http://pe.shortgod.com/awester/tv6.php?id=22
 #EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/320px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORT 2
-
+http://pe.shortgod.com/awester/tv6.php?id=21
 #EXTINF:-1  tvg-id="AandE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/320px-A%26E_Network_logo.svg.png",A&E
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png",AMC
-http://138.59.177.34:8000/play/a02m/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" http-user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",AMC
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158670
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG",AXN
 http://170.254.18.106/AXN/tracks-v2a2/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/640px-CinecanalLA.png",CINECANAL
@@ -110,7 +110,7 @@ http://138.59.177.34:8000/play/a02e/index.m3u8
 #EXTINF:-1  tvg-id="UNIVERSAL CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/320px-Universal-Pictures-Logo.svg.png",UNIVERSAL
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="WARNER CHANNEL" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/248px-Warner_Channel.svg.png",WARNER
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+http://186.103.142.222:8000/play/a084/index.m3u8
 #EXTINF:-1  tvg-id="GoldenEdgePanregional.mx" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest?cb=20210512164553&path-prefix=es",GOLDEN PLUS
@@ -123,11 +123,5 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es",SONY CINE
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png",MULTIPREMIER
-http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",Películas 2
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png", MC
-http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DREAMWORKS CHANNEL
 http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
