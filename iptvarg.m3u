@@ -6,7 +6,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1  tvg-id="TV PUBLICA" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1  tvg-id="CANAL 9" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElNueve.png",EL NUEVE
-https://ythls.armelin.one/video/o3b8pM9pR5Q.m3u8
+http://190.94.186.158:9981/play/a034/index.m3u8
 #EXTINF:-1  tvg-id="TELEFE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1  tvg-id="EL TRECE" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png",EL TRECE
@@ -54,11 +54,11 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS ARGENTINA" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports.png",FOX SPORTS 1
-http://pe.shortgod.com/awester/tv6.php?id=12
+http://190.94.186.158:9981/play/a03d/index.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2
-http://pe.shortgod.com/awester/tv6.php?id=13
+http://190.94.186.158:9981/play/a03e/index.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS 3" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports3.png",FOX SPORTS 3
-http://pe.shortgod.com/awester/tv6.php?id=14
+http://190.94.186.158:9981/play/a03f/index.m3u8
 #EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/320px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORT
 http://pe.shortgod.com/awester/tv6.php?id=22
 #EXTINF:-1  tvg-id="" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/320px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORT 2
