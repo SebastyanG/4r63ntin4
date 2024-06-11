@@ -125,3 +125,6 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DREAMWORKS CHANNEL
 http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ARGENTINA" tvg-logo="",STAR
+https://live-ftc-sa-east-2.media.starott.com/gru1/va01/starplus/event/2024/06/10/SportsCenter_Argentina_Ni_20240610_1718056816029/audio-1-128K/128_complete.m3u8
+
