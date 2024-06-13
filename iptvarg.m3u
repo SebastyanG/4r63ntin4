@@ -13,6 +13,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png",NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://i.imgur.com/V1xZV72.png",CIUDAD MAGAZINE
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8 
 #EXTINF:-1  tvg-id="LA NACION+" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LN+.png",LA NACION+
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
 #EXTINF:-1  tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
