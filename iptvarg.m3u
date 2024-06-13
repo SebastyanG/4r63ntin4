@@ -40,19 +40,19 @@ http://181.191.140.2:8000/play/a0gf/index.m3u8
 #EXTINF:-1  tvg-id="TYC SPORTS" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png",TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
-http://181.191.140.2:8000/play/a0gv/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png",ESPN 3
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png",ESPN 4
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn4/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png",ESPN 5
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png",ESPN 6
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",ESPN 7
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS ARGENTINA" group-title="ARGENTINA" tvg-logo="http://78.47.174.211/logos/foxsports.png",FOX SPORTS 1
 http://181.191.140.2:8000/play/a0hx/index.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS 2" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORTS 2
