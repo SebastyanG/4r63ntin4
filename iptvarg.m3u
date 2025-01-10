@@ -1,28 +1,41 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml,https://www.bevy.be/bevyfiles/argentinapremium.xml,https://www.bevy.be/bevyfiles/argentina.xml;https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTINF:-1  tvg-id="AMERICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" user-agent="iPhone",AMERICA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1  tvg-id="TV PUBLICA" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png",TV PUBLICA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0069
-#EXTINF:-1  tvg-id="CANAL 9" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElNueve.png",EL NUEVE
-http://181.191.140.2:8000/play/a0he/index.m3u8
-#EXTINF:-1  tvg-id="TELEFE" group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1  tvg-id="EL TRECE" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png",EL TRECE
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png",NET TV
-https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="NET TV" group-title="ARGENTINA" tvg-logo="https://i.imgur.com/V1xZV72.png",CIUDAD MAGAZINE
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8 
-#EXTINF:-1  tvg-id="LA NACION+" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LN+.png",LA NACION+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 ch-number="2" tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", América
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 ch-number="7" tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true", TV Pública
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#EXTINF:-1 ch-number="9" tvg-id="ElNueve.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true", El nueve
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 ch-number="11" tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu", Telefe
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#EXTINF:-1 ch-number="13" tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true", El trece
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png", Net TV
+https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true", Ciudad Magazine
+https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#EXTINF:-1 tvg-id="LA NACION+" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/LN+.png",LA NACION+
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
-#EXTINF:-1  tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
+#EXTINF:-1 tvg-id="TN" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TN.png",TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1  tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png",A24
+#EXTINF:-1 tvg-id="A24" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png",A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1  tvg-id="CRONICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png",CRONICA
+#EXTINF:-1 tvg-id="CRONICA TV" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png",CRONICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g1.mc-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1  tvg-id="C5N" group-title="ARGENTINA" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/C5N.png",C5N
