@@ -901,6 +901,4 @@ http://m.mtd.llc:8880/CH0100000000128/index.mpd?|origin=android_mobile.directvgo
 #EXTINF:-1 tvg-id="dsports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", D Sports +
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dbskbhEGQVe1urIqeZ0piQ","k":"xJjyqXjCPyQLGPsXH9FQyA"},{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}],"type":"temporary"}
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000139/index.mpd?|origin=android_mobile.directvgo.com
+http://m.mtd.llc:8880/CH0100000000139/index.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
