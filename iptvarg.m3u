@@ -884,21 +884,23 @@ https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg" group-title="📚 CULTURA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", D Sports (ARG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
+#EXTINF:-1 tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports (ARG)
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000021/index.mpd?|origin=android_mobile.directvgo.com
+http://m.mtd.llc:8880/CH0100000000021/index.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
 
-#EXTINF:-1 tvg-id="dsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", D Sports 2
+#EXTINF:-1 tvg-id="dsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000128/index.mpd?|origin=android_mobile.directvgo.com
 
-#EXTINF:-1 tvg-id="dsports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", D Sports +
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dbskbhEGQVe1urIqeZ0piQ","k":"xJjyqXjCPyQLGPsXH9FQyA"},{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="dsports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports +
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000139/index.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
