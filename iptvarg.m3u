@@ -1,6 +1,6 @@
 #EXTM3U refresh="0.01" url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 ARGENTINA", América
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -35,27 +35,27 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" group-title="🇦🇷 ARGENTINA", La Nación +
+#EXTINF:-1 tvg-id="LN+.ar" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" group-title="🇦🇷 ARGENTINA", La Nación +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="🇦🇷 ARGENTINA", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="🇦🇷 ARGENTINA", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="🇦🇷 ARGENTINA", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="🇦🇷 ARGENTINA", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
-#EXTINF:-1 tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="🇦🇷 ARGENTINA", Cronica
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="🇦🇷 ARGENTINA", Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="🇦🇷 ARGENTINA", C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="🇦🇷 ARGENTINA", C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -98,17 +98,17 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_H
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="⚽ DEPORTES", ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="⚽ DEPORTES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="⚽ DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="⚽ DEPORTES", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="⚽ DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="⚽ DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -118,38 +118,38 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd?|refere
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽ DEPORTES", FOX Sports
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽ DEPORTES", FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="⚽ DEPORTES", FOX Sports 2
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="⚽ DEPORTES", FOX Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="⚽ DEPORTES", FOX Sports 3
+#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="⚽ DEPORTES", FOX Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
-#EXTINF:-1 tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports (ARG)
+#EXTINF:-1 tvg-id="610#DSPORTS (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports (ARG)
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000021/index_fk.mpd?|origin=android_mobile.directvgo.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports 2
+#EXTINF:-1 tvg-id="612#DSPORTS 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports 2
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000128/index_fk.mpd?|origin=android_mobile.directvgo.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dbskbhEGQVe1urIqeZ0piQ","k":"xJjyqXjCPyQLGPsXH9FQyA"},{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports +
+#EXTINF:-1 tvg-id="613#DSPORTS +"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽ DEPORTES", DSports +
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000139/index_fk.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
