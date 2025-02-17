@@ -364,6 +364,16 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s" group-title="🇦🇷 TV ARGENTINA", EVENTOS HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
+https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s" group-title="🇦🇷 TV ARGENTINA", EVENTOS HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
+https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
 
