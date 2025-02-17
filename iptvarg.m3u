@@ -219,7 +219,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signatur
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1 tvg-id="HBO Plus Panregional.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvgZ0B2Xpw1S1benKd0HCqTBAskS3DqdBiw&s" group-title="🇦🇷 TV ARGENTINA", HBO PLUS
+#EXTINF:-1 tvg-id="HBO Plus Este.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvgZ0B2Xpw1S1benKd0HCqTBAskS3DqdBiw&s" group-title="🇦🇷 TV ARGENTINA", HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
@@ -366,3 +366,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", LISTA 2
+https://raw.githubusercontent.com/test22222222bdfgwcAdx/update/refs/heads/main/bb.m3u
