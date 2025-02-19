@@ -377,5 +377,9 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mp
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", LISTA 2
-https://raw.githubusercontent.com/test22222222bdfgwcAdx/update/refs/heads/main/bb.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="", DSports 2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://ja.periquitopan.store/dsports2/tracks-v1a1/mono.m3u8?md5=bsMzRkMB6LsM3OKquzl1Qw&expires=1740012334
