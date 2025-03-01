@@ -376,3 +376,24 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8?md5=MDZq6awBqKUCz0yweh7wSA&expires=1740359849
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DAZC EVENTOS",ESPN2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://ja.antag.xyz/espn2/tracks-v1a1/mono.m3u8?md5=-Dcsv_JSFxKXUOGSXZtInA&expires=1740869768
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",DSPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://ja.antag.xyz/dsports/tracks-v1a1/mono.m3u8?md5=jhuwGo2bDm2O67SJ54WhuQ&expires=1740870220
