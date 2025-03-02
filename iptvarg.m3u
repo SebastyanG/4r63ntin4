@@ -364,3 +364,8 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="🇦🇷 TV ARGENTINA" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="⚽ DAZN",, DAZN  1  ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
