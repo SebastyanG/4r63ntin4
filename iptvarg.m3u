@@ -399,8 +399,30 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" tvg-group="EVENTOS", prueba
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", Sky Sports LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=AAo8ucyjXBSqykSeR2aSyg&expires=1740985144
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", Unimás USA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDVmZmRhOWVlNmJmLTdkZmEtNTZhNC03MWU4LTRjZThmMmMz/master.m3u8?md5=lfMxpkCOnGQLDc6FO-uk_Q&expires=1740985584
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", TUDN USA
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8?md5=KTjLquQumkt6dyu94saHPQ&expires=1740985712
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" tvg-group="EVENTOS", DAZN  F1
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWMwYTUzMTE3MzEwLTM2Y2EtNzBlNC1kY2Q2LTJhZjg3ZDc5/master.m3u8?md5=EfcRPt43nxS0zmDMRIvd-g&expires=1740985912
