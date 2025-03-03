@@ -571,3 +571,27 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MjI1NzVl
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YmIzNTlkNDY1NmQ2LWVlNTktZTZhNC0wNDk1LWI4MWI4ZDZm/master.m3u8?md5=-Cmja3hqmDTUn2zsfePpgw&expires=1740988293
+
+#EXTINF:-1 group-title="Radios",LA 100
+https://musicsrc.cvattv.com.ar/L100
+
+#EXTINF:-1 group-title="Radios",RIVADAVIA
+https://musicsrc.cvattv.com.ar/RRIV
+
+#EXTINF:-1 group-title="Radios",MITRE
+https://musicsrc.cvattv.com.ar/RMIT
+
+#EXTINF:-1 group-title="Radios",Dsports radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+
+#EXTINF:-1 group-title="Radios",CONTINENTAL
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
+
+#EXTINF:-1 group-title="Radios",LA RED
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+
+#EXTINF:-1 group-title="Radios",CNN RADIO
+https://musicsrc.cvattv.com.ar/RCNN
+
+#EXTINF:-1 group-title="Radios",NACIONAL
+https://musicsrc.cvattv.com.ar/RNAC
