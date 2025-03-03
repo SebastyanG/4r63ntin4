@@ -1,4 +1,4 @@
-#EXTM3U refresh="0.01" url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/spain1.xml"
+#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/spain1.xml,https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Argentina/directv.com.ar.channels.xml"
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 TV ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -138,21 +138,21 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-id="610#DSPORTS (ARG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports
+#EXTINF:-1 tvg-id="DSPORTS (ARG)(DTSA)(610)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8?md5=llUkH8kYjrNH_nzjLOsyGQ&expires=1740980019
 
-#EXTINF:-1 tvg-id="612#DSPORTS 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
+#EXTINF:-1 tvg-id="DSPORTS 2 (DTS2)(612)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8?md5=9wAE-Bv7YN6qfawErzcJJQ&expires=1740980529
 
-#EXTINF:-1 tvg-id="613#DSPORTS +"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports +
+#EXTINF:-1 tvg-id="DSPORTS +(DTS+)(613)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
@@ -184,7 +184,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Un
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png" group-title="🇦🇷 TV ARGENTINA", UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="Universal Cinema(UNCI)(572)" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png" group-title="🇦🇷 TV ARGENTINA", UNIVERSAL CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
@@ -399,28 +399,28 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", Sky Sports LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Sky Sports LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=AAo8ucyjXBSqykSeR2aSyg&expires=1740985144
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", Unimás USA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Unimás USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDVmZmRhOWVlNmJmLTdkZmEtNTZhNC03MWU4LTRjZThmMmMz/master.m3u8?md5=lfMxpkCOnGQLDc6FO-uk_Q&expires=1740985584
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="EVENTOS", TUDN USA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8?md5=KTjLquQumkt6dyu94saHPQ&expires=1740985712
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" tvg-group="EVENTOS", DAZN  F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
