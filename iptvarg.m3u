@@ -389,17 +389,17 @@ https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af8
 #KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
 https://sam-py-edge04.tigo.com.py/ccur-session/01_3508408953/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN  1  ES
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png" group-title="EVENTOS", DAZN  1  ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2"tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="EVENTOS", DAZN  2  ES
+#EXTINF:-1 tvg-id="DAZN 2"tvg-logo="https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png" group-title="EVENTOS", DAZN  2  ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Sky Sports LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
@@ -413,7 +413,7 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTcyOGMy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDVmZmRhOWVlNmJmLTdkZmEtNTZhNC03MWU4LTRjZThmMmMz/master.m3u8?md5=lfMxpkCOnGQLDc6FO-uk_Q&expires=1740985584
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", TUDN USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QtMLX404/TUDN-Logo.png" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamdz4.lat
 #EXTVLCOPT:http-referrer=https://streamdz4.lat/
