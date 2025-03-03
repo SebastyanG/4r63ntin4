@@ -1,4 +1,4 @@
-#EXTM3U refresh="0.01" url-tvg="https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Uruguay/montecable.com.channels.xml,https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Spain/bartv.es.channels.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
+#EXTM3U refresh="0.01" url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml"
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 TV ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -60,7 +60,7 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-name="IPNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" group-title="🇦🇷 TV ARGENTINA", IP Noticias
+#EXTINF:-1 tvg-id="IP noticias.ar" tvg-name="IPNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" group-title="🇦🇷 TV ARGENTINA", IP Noticias
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -159,17 +159,17 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWUyYjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0/master.m3u8?md5=Or7vGMb-_6e9194XDm1OAw&expires=1740980556
 
-#EXTINF:-1 tvg-id="ESPN 5 HD" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="🇦🇷 TV ARGENTINA", ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="🇦🇷 TV ARGENTINA", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1tvg-id="ESPN 6 HD" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="🇦🇷 TV ARGENTINA", ESPN 6
+#EXTINF:-1tvg-id="ESPN 6 HD.uy" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="🇦🇷 TV ARGENTINA", ESPN 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="ESPN 7 HD" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="🇦🇷 TV ARGENTINA", ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="🇦🇷 TV ARGENTINA", ESPN 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
