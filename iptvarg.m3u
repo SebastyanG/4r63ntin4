@@ -1,4 +1,4 @@
-#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml"
+#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml"
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 TV ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -269,7 +269,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydd6eZjLS9rMBWoW1TLuT38JD-_hPD3hIRSWrOECyY2oyg4WLXUgvqTueVxZ6GiXenQM&usqp=CAU" group-title="🇦🇷 TV ARGENTINA", CINE AR
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydd6eZjLS9rMBWoW1TLuT38JD-_hPD3hIRSWrOECyY2oyg4WLXUgvqTueVxZ6GiXenQM&usqp=CAU" group-title="🇦🇷 TV ARGENTINA", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd
