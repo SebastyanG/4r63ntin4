@@ -1,4 +1,4 @@
-#EXTM3U refresh="0.01" url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina4.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml,https://www.open-epg.com/files/argentina2.xml.gz"
+#EXTM3U refresh="0.01" url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina4.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
 
 #EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 TV ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
