@@ -389,3 +389,6 @@ https://musicsrc.cvattv.com.ar/RCNN
 
 #EXTINF:-1 group-title="Radios",NACIONAL
 https://musicsrc.cvattv.com.ar/RNAC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS" content-type="playlist", EVENTOS
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/Eventos.m3u
