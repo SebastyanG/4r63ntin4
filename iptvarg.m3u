@@ -424,11 +424,9 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OGU3NmY0
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzNhOWM5M2Q0NDE3LTY0ZjgtMmQ3NC0yNjkzLTliNjFlNGY5/master.m3u8?md5=bKufvRP7H49creo3IqHKfg&expires=1741661556
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz4.lat
-#EXTVLCOPT:http-referrer=https://streamdz4.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MWMwYTUzMTE3MzEwLTM2Y2EtNzBlNC1kY2Q2LTJhZjg3ZDc5/master.m3u8?md5=EfcRPt43nxS0zmDMRIvd-g&expires=1740985912
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS",DISNEY 1
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
