@@ -48,7 +48,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="🇦🇷 TV ARGENTINA", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="🇦🇷 TV ARGENTINA", Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -68,7 +68,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🇦🇷 TV ARGENTINA", CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="DIPUTADOS TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" group-title="🇦🇷 TV ARGENTINA", Diputados TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -98,10 +98,10 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-name="TyCSports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 TV ARGENTINA", TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-name="TyCSports" tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="🇦🇷 TV ARGENTINA", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="🇦🇷 TV ARGENTINA", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -141,7 +141,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.
 #EXTINF:-1 tvg-id="TyC Sports Internacional USA" tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="🇦🇷 TV ARGENTINA", TYC SPORT INTERNACIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -152,10 +152,10 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjQ5Nzlk
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://www.tvplusgratis2.com
-#EXTVLCOPT:http-referrer=https://www.tvplusgratis2.com/
+#EXTVLCOPT:http-origin=https://streamdz4.lat
+#EXTVLCOPT:http-referrer=https://streamdz4.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://deportes.slkdhfdhldeportes.com:8080/MTc5LjM4LjE1Mi4xMDU=/17_.m3u8?token=i5oHixxXSOsdnVpcPdza4Q&expires=1741828358
+
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -313,6 +313,18 @@ https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Un
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
+
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="🇦🇷 TV ARGENTINA", Golden
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="🇦🇷 TV ARGENTINA", Golden Edge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="TNT NOVELAS.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="🇦🇷 TV ARGENTINA", TNT NOVELAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
