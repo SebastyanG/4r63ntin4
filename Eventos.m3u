@@ -1,3 +1,5 @@
+#EXTM3U refresh="0.01" url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
+
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
