@@ -24,11 +24,16 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+
+#EXTINF:-1 group-title="EVENTOS", Movistar La Liga
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cale.pricesaskeloadsc.com:443/movistarlaliga/tracks-v1a1/mono.m3u8?token=a0447ffe4fc3561c7ca3c34bf8d3c87eb30fac40-16-1742124521-1742092121
 
 #EXTINF:-1 group-title="EVENTOS", Fox Sports Premium MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://bgvnzw5k.fubohd.com/foxsportspremium/mono.m3u8?token=26ee153c7ecdcb4f60a341db9c02206bddd9e1b0-fa-1742135973-1742099973
 
 #EXTINF:-1 group-title="EVENTOS", FOX Sports MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -36,6 +41,7 @@ https://pecdl.pricesaskeloadsc.com/global/foxsportsmx/index.m3u8?token=17007d1be
 
 #EXTINF:-1 group-title="EVENTOS", FOX Sports 2 MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://ca8s9.pricesaskeloadsc.com/global/foxsports2mx/index.m3u8?token=060c7e42e95a697c8599fa6eebdd71035e47eebb-9a-1742124670-1742092270
 
 #EXTINF:-1 tvg-id="TUDN (Estados Unidos)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -43,6 +49,10 @@ https://ca8s9.pricesaskeloadsc.com/global/tudn_usa/index.m3u8?token=1b7804c42466
 
 #EXTINF:-1 tvg-id="TUDN (México)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+
+#EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://cbado.pricesaskeloadsc.com/global/espndeportes/index.m3u8?token=5d9312a0046c3f27b841d2bcb5336ea668e97415-40-1742124361-1742091961
 
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
