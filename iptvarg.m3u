@@ -150,10 +150,9 @@ https://99a.pricesaskeloadsc.com/global/dsports/index.m3u8?token=411d387ad61eefc
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
-
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-
+https://ca8s9.pricesaskeloadsc.com/global/dsports2/index.m3u8?token=3e5b2d36b14eec7abc28d0c6853b8cc1753a1009-dc-1742124091-1742091691
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="🇦🇷 TV ARGENTINA", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
