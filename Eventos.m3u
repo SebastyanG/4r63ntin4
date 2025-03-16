@@ -14,13 +14,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
 
-#EXTINF:-1 group-title="EVENTOS", TUDN
+#EXTINF:-1 group-title="EVENTOS", Sky Sports 21
 
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
