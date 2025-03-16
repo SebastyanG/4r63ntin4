@@ -31,7 +31,6 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEt
 #EXTINF:-1 group-title="EVENTOS", Movistar La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", Fox Sports Premium MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,7 +61,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 
 #EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://cbado.pricesaskeloadsc.com/global/espndeportes/index.m3u8?token=5d9312a0046c3f27b841d2bcb5336ea668e97415-40-1742124361-1742091961
 
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
