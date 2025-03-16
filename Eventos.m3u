@@ -11,14 +11,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="EVENTOS", DAZN 3 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -26,37 +24,90 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports LaLiga
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz4.lat
-#EXTVLCOPT:http-referrer=https://streamdz4.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=AAo8ucyjXBSqykSeR2aSyg&expires=1740985144
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png" group-title="EVENTOS", Unimás USA
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz4.lat
-#EXTVLCOPT:http-referrer=https://streamdz4.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDVmZmRhOWVlNmJmLTdkZmEtNTZhNC03MWU4LTRjZThmMmMz/master.m3u8?md5=lfMxpkCOnGQLDc6FO-uk_Q&expires=1740985584
+#EXTINF:-1 group-title="EVENTOS", Fox Sports Premium MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", FOX Sports MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", FOX Sports 2 MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed8dd7562fd9f9064bed8d52fa42cc11:d65a22cfe5bfbd33d8d25b183649e44f
+https://aka-live1-ott.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", FOX Sports 3 MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b40cafa23cb7de8418bae6c66159f3a:b1bde4692ea730163539adc9a84cc488
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 
 #EXTINF:-1 tvg-id="TUDN (Estados Unidos)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz4.lat
-#EXTVLCOPT:http-referrer=https://streamdz4.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGU3NmY0YWQ3MWNkLWEwYjktOWE5NC05Y2YzLTI3ZTk3ZmFj/master.m3u8?md5=otp8WOj0-VVPqYZJ1F5woA&expires=1741915769
 
 #EXTINF:-1 tvg-id="TUDN (México)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz4.lat
-#EXTVLCOPT:http-referrer=https://streamdz4.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzNhOWM5M2Q0NDE3LTY0ZjgtMmQ3NC0yNjkzLTliNjFlNGY5/master.m3u8?md5=bKufvRP7H49creo3IqHKfg&expires=1741661556
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENTOS", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=666607af08b9eeddaae1d6c36a34d689:10fdc24a14e8423f5e5ff03569439b14
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", Sky Sports Live 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", Sky Sports Live 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", Sky Sports Live 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", Sky Sports Live 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENTOS", Sky Sports Live 5
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
+
+EVENTOS DYSNEY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS",DISNEY 1
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
