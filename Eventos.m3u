@@ -26,22 +26,32 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=k2TrNIQMxzSTE6lTdl_52A&expires=1742164434
 
 #EXTINF:-1 group-title="EVENTOS", Movistar La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://cale.pricesaskeloadsc.com:443/movistarlaliga/tracks-v1a1/mono.m3u8?token=a0447ffe4fc3561c7ca3c34bf8d3c87eb30fac40-16-1742124521-1742092121
 
-#EXTINF:-1 group-title="EVENTOS", Fox Sports Premium MX
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://bgvnzw5k.fubohd.com/foxsportspremium/mono.m3u8?token=26ee153c7ecdcb4f60a341db9c02206bddd9e1b0-fa-1742135973-1742099973
 
-#EXTINF:-1 group-title="EVENTOS", FOX Sports MX
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://pecdl.pricesaskeloadsc.com/global/foxsportsmx/index.m3u8?token=17007d1be1a5f22102e69b1f000d37a8e87efc51-15-1742119222-1742086822
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", Fox Sports Premium MX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 group-title="EVENTOS", FOX Sports 2 MX
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://ca8s9.pricesaskeloadsc.com/global/foxsports2mx/index.m3u8?token=060c7e42e95a697c8599fa6eebdd71035e47eebb-9a-1742124670-1742092270
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="EVENTOS", FOX Sports MX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="EVENTOS", FOX Sports 2 MX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #EXTINF:-1 tvg-id="TUDN (Estados Unidos)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
