@@ -145,14 +145,14 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 TV ARGENTINA", DSports
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://99a.pricesaskeloadsc.com/global/dsports/index.m3u8?token=411d387ad61eefc27573ae02287ab67ce1b3e40b-b0-1742120665-1742088265
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8?md5=n7sWCE3I5w5tK1po5D5i0w&expires=1742163762
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://ca8s9.pricesaskeloadsc.com/global/dsports2/index.m3u8?token=3e5b2d36b14eec7abc28d0c6853b8cc1753a1009-dc-1742124091-1742091691
+
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="🇦🇷 TV ARGENTINA", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
