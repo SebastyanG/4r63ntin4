@@ -39,6 +39,7 @@ https://pecdl.pricesaskeloadsc.com/global/foxsportsmx/index.m3u8?token=17007d1be
 
 #EXTINF:-1 tvg-id="TUDN (Estados Unidos)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://ca8s9.pricesaskeloadsc.com/global/tudn_usa/index.m3u8?token=1b7804c424662d50aa15ff9bb53bd608a646cfed-93-1742121456-1742089056
 
 #EXTINF:-1 tvg-id="TUDN (México)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -46,6 +47,10 @@ https://pecdl.pricesaskeloadsc.com/global/foxsportsmx/index.m3u8?token=17007d1be
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 https://vadp.pricesaskeloadsc.com/global/espnmx/index.m3u8?token=f681b13a90f68f15c926b5795c6262808d0735aa-3b-1742118935-1742086535
+
+#EXTINF:-1 group-title="EVENTOS", ESPN 2 MX
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://coeld.pricesaskeloadsc.com/global/espn2mx/index.m3u8?token=97843229c87ed2011f7cd77a2c2bbb71d726b662-ad-1742121284-1742088884
 
 #EXTINF:-1 group-title="EVENTOS", GOL PERU
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
