@@ -28,9 +28,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=k2TrNIQMxzSTE6lTdl_52A&expires=1742164434
 
-#EXTINF:-1 group-title="EVENTOS", Movistar La Liga
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", Fox Sports Premium MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -88,6 +85,171 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="USANETWORK" tvg-logo="" group-title="PREMIER Y LA LIGA", USANETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 tvg-id="USANETWORK" tvg-logo="" group-title="PREMIER Y LA LIGA", 3SAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
+https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="canale5" tvg-logo="" group-title="PREMIER Y LA LIGA", canale5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="espnmx" tvg-logo="" group-title="PREMIER Y LA LIGA", espnmx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227153e801d97c9c672ddb65d0f7d139:2d37b9e083bb849b6e913d817de2b8f2
+https://livedashmx.cdn.startv.tv/bpk-tv/espn/vmx/index.mpd
+
+#EXTINF:-1 tvg-id="BEIN_XTRA_ES" tvg-logo="" group-title="PREMIER Y LA LIGA", BEIN_XTRA_ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
+https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
+
+#EXTINF:-1 tvg-id="temp" tvg-logo="" group-title="PREMIER Y LA LIGA", temp
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
+
+#EXTINF:-1 tvg-id="temp2" tvg-logo="" group-title="PREMIER Y LA LIGA", temp2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/iq4WJaz32_VUr7xNQ9equw/1727923395/104469517/132089857/88/cmaf/r12_mcampeones2/dash_high.mpd
+
+#EXTINF:-1 tvg-id="temp3" tvg-logo="" group-title="PREMIER Y LA LIGA", temp3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/OLkJsl8kjz_zmLTZ6yehxQ/1727923404/104469517/132089857/91/cmaf/r12_mcampeones5/dash_high.mpd
+
+#EXTINF:-1 tvg-id="temp4" tvg-logo="" group-title="PREMIER Y LA LIGA", temp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/1727923404/104469517/132089857/92/cmaf/r12_mcampeones6/dash_high.mpd
+
+#EXTINF:-1 tvg-id="laligatv" tvg-logo="" group-title="PREMIER Y LA LIGA", laligatv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="laligahyp" tvg-logo="" group-title="PREMIER Y LA LIGA", laligahyp
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="go3extra" tvg-logo="" group-title="PREMIER Y LA LIGA", go3extra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005A5947C584AB77035ED678
+https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="" group-title="PREMIER Y LA LIGA", eurosport2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05165a7d627cad792decdb1e7a4e18d3:72122ff50e1fdc072827039b7ca2fac8
+https://a129aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/0woud0fpbk/out/v1/19de3da8f2494fc1a1841c41d460b956/cenc.mpd
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="" group-title="PREMIER Y LA LIGA", DAZN 1 RIZE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="" group-title="PREMIER Y LA LIGA", eurosport1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bea39bc61707784544e6ccd62c9d076:7139535aafe27b59dff555b7dc99eed0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuswgfaia3/out/v1/5816ef436fc446499e169d89a26dfbed/cenc.mpd
+
+#EXTINF:-1 tvg-id="VRT1_BE" tvg-logo="" group-title="PREMIER Y LA LIGA", VRT1_BE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#EXTINF:-1 tvg-id="TV4_SE" tvg-logo="" group-title="PREMIER Y LA LIGA", TV4_SE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b09d157d18ab51b9923a3d5abdeefd52:5a29bb3c705edea6941a5b1d575ac316
+https://director.streaming.telia.com/tvm-packager-prod/group2/61a4859b79019af4abf1009d/manifest.mpd?adap=default
+
+#EXTINF:-1 tvg-id="NOVA2_CZ" tvg-logo="" group-title="PREMIER Y LA LIGA", NOVA2_CZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="nova1" tvg-logo="" group-title="PREMIER Y LA LIGA", nova1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="SSC1" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-id="SSC2" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8BCFC55359E24BD7AD1C5560A96DDD3C:b5dcf721ab522af92a9d3bf0bd55b596
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#EXTINF:-1 tvg-id="SSC3" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#EXTINF:-1 tvg-id="SSC4" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#EXTINF:-1 tvg-id="SSC5" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#EXTINF:-1 tvg-id="SSC_EXTRA1" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC_EXTRA1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 tvg-id="SSC_EXTRA2" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC_EXTRA2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#EXTINF:-1 tvg-id="SSC_EXTRA3" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC_EXTRA3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 tvg-id="SSC_NEWS" tvg-logo="" group-title="PREMIER Y LA LIGA", SSC_NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+
+#EXTINF:-1 tvg-id="ziggo2" tvg-logo="" group-title="PREMIER Y LA LIGA", ziggo2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
+#EXTINF:-1 tvg-id="ziggo3" tvg-logo="" group-title="PREMIER Y LA LIGA", ziggo3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+
+#EXTINF:-1 tvg-id="ziggo5" tvg-logo="" group-title="PREMIER Y LA LIGA", ziggo5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+
+#EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", ziggo6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+#EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
