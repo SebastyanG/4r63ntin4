@@ -128,6 +128,10 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
 #EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8
+
+https://jf1.naqsheala.com:999/hls/mdeportes.m3u8?md5=pY43WbRpviat0LO3IeGopA&expires=1742681876
 
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
