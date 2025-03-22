@@ -11,6 +11,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/b1QN1NQ/DAZN3.png" group-title="EVENTOS", DAZN 3 ES
+http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/j5P724k/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
 
@@ -91,7 +92,6 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 
 #EXTINF:-1 group-title="EVENTOS", CARACOL TV
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://s01.castamp.com/live/c1dawfawer/chunklist.m3u8?h=rG-pC_s-awBtrT8rkYJS6Q&e=1673662304&u=4674ceaffbd1dd0a5db1ebc16a85ac05&d=37_11_141_29
 
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
