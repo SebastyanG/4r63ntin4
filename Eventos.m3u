@@ -88,7 +88,10 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 
 #EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://zekonew.koskoros.ru/zeko/premium375/mono.m3u8
+
+#EXTINF:-1 group-title="EVENTOS", CARACOL TV
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://s01.castamp.com/live/c1dawfawer/chunklist.m3u8?h=rG-pC_s-awBtrT8rkYJS6Q&e=1673662304&u=4674ceaffbd1dd0a5db1ebc16a85ac05&d=37_11_141_29
 
 #EXTINF:-1 group-title="EVENTOS", ESPN MX
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
