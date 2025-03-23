@@ -26,11 +26,8 @@ acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="EVENTOS", DAZN LA LIGA 2
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GHqBPVz/La1-logo.png" group-title="EVENTOS", LA 1
-acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7QP3X8W/tdp-logo.webp" group-title="EVENTOS", Teledeporte
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
