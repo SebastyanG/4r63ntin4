@@ -27,7 +27,10 @@ acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GHqBPVz/La1-logo.png" group-title="EVENTOS", LA 1
-http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qF7Zy0f/La2-logo.png" group-title="EVENTOS", LA 2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7QP3X8W/tdp-logo.webp" group-title="EVENTOS", Teledeporte
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
@@ -99,6 +102,9 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS", Fox Sports 1 USA
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
+
+#EXTINF:-1 group-title="EVENTOS", PRUEBA
+https://topembed.pw/channel/DirecTVSports[Argentina]
 
 #EXTINF:-1 group-title="EVENTOS", CARACOL TV
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
