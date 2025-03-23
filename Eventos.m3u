@@ -96,6 +96,10 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="EVENTOS", Fox Sports 1 USA
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png" group-title="EVENTOS", Fox Deportes
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://jf4.naqsheala.com:999/hls/wsmkmlfeed70.m3u8?md5=OXts8w7HPAFfrYcctJi2Vg&expires=1742704786
+
 #EXTINF:-1 group-title="EVENTOS", CARACOL TV
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
