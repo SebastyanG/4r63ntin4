@@ -88,7 +88,7 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_U
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 group-title="EVENTOS", ESPN DEPORTES
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 
 #EXTINF:-1 group-title="EVENTOS", CARACOL TV
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
