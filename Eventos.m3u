@@ -104,6 +104,8 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
 #EXTINF:-1 group-title="EVENTOS", PRUEBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=php
 https://topembed.pw/channel/DirecTVSports[Argentina]
 
 #EXTINF:-1 group-title="EVENTOS", CARACOL TV
