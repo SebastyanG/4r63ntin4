@@ -60,15 +60,15 @@ https://wikihznew.koskoros.ru/wikihz/wikitudn/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png" group-title="EVENTOS", Fox Deportes
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://jf4.naqsheala.com:999/hls/wsmkmlfeed70.m3u8?md5=OXts8w7HPAFfrYcctJi2Vg&expires=1742704786
+
 
 #EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://jf2.naqsheala.com:999/hls/wsmkmlfeed71.m3u8?md5=zLgG9hMO2DSOWHyPJlXGUg&expires=1742706205
+
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="EVENTOS", ESPN MEXICO
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-https://jf1.naqsheala.com:999/hls/wsmkmlfeed97.m3u8?md5=jMkJ_PudP3ZZ27c-nsOIKA&expires=1742705911
+
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="EVENTOS", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
