@@ -26,10 +26,23 @@ acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="" group-title="EVENTOS", Sky Sports PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00057ef2c5dd6fa01e7275e4ce9b98a6:de0a1a300adbd4ba1fcd27f51d4b5364
+https://linear009-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="" group-title="EVENTOS", Sky Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
+https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
 
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", FOX Sports Premium MEXICO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
