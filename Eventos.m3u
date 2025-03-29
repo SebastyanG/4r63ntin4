@@ -30,20 +30,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=0zAOh6eJ1WFatr-UUQcp1g&expires=1743289206
 
-#EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="" group-title="EVENTOS", Sky Sports PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00057ef2c5dd6fa01e7275e4ce9b98a6:de0a1a300adbd4ba1fcd27f51d4b5364
-https://linear009-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="" group-title="EVENTOS", Sky Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00050559cd31897cd28ef1cad1857606:32203d3d424a70258a9f676316681bea
-https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", FOX Sports Premium MEXICO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -77,6 +63,7 @@ https://wikihznew.koskoros.ru/wikihz/wikitudn/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTktNDNkNC02M2Q0LTk1YWVjODEy/master.m3u8?md5=HGLn4Ms9ElZ_aPrIz_LIgQ&expires=1743289399
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="EVENTOS", ESPN MEXICO
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -127,12 +114,6 @@ https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
 
 EVENTOS DYSNEY
 
-#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista Sport", "k":"I1iYzbELDNujXqLOlPux+w"}]}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Chrome/61.03163.100
-#EXTVLCOPT--http-reconnect=true
-https://1063-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="EVENTOS", MLS
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://coeld.pricesaskeloadsc.com/global/disney3/index.m3u8?token=484ea52c8f35efede938f4691a57b4c84782385a-38-1743302442-1743270042
