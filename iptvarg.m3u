@@ -152,10 +152,20 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8?md5=K-ZCipwdF6Ubd1TFWqImVg&expires=1743299378
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamsvv1.su
+#EXTVLCOPT:http-referrer=https://streamsvv1.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8?md5=Vid66T08I8d2uFY036V7Pg&expires=1743378663
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamsvv1.su
+#EXTVLCOPT:http-referrer=https://streamsvv1.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0/master.m3u8?md5=pqngEOc8ovEmOnRzOi7oYA&expires=1743378781
 
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🇦🇷 TV ARGENTINA", UNIVERSAL CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
