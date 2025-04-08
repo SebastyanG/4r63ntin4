@@ -44,6 +44,36 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=0zAOh6eJ1WFatr-UUQcp1g&expires=1743289206
 
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="EVENTOS", ESPN UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="EVENTOS", ESPN 2 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="EVENTOS", ESPN 3 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="EVENTOS", ESPN 5 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="EVENTOS", ESPN 6 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="EVENTOS", ESPN 7 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", FOX Sports Premium MEXICO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -89,6 +119,9 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzNhOWM5M2Q0NDE3LTY0Zjgt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YWZlZjkxN2IxZDI5LTY3MmItMTQyNC1jNDkzLTI1OWY4OThj/master.m3u8?md5=z_KC9JSKFbJSGRjv8l4Bng&expires=1743296703
 
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="EVENTOS", Fox Sports 1 USA
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131090
+
 #EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -105,36 +138,6 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTkt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1N2E2YTBkZmJjMzFiLWU0ODgtYTk0NC03YTViLWU4NzlhZmE0/master.m3u8?md5=-iWFUBQ45R8HgcNI4N3I5A&expires=1743296781
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="EVENTOS", ESPN UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="EVENTOS", ESPN 2 UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="EVENTOS", ESPN 3 UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
-https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="EVENTOS", ESPN 5 UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="EVENTOS", ESPN 6 UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="EVENTOS", ESPN 7 UY
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" group-title="EVENTOS", ESPN USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -143,31 +146,12 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MDE1MGUzYmZlNGJkLTZmN2ItODJiNC05MDljLWFmYWFmYTUx/master.m3u8?md5=nn5InFN86zuoVc9f7Q6qHA&expires=1743296890
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="EVENTOS", Fox Sports 1 USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://la12hd.com
-#EXTVLCOPT:http-referrer=https://la12hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://bwfrzq.pelotahd.com/foxsports1_usa/mono.m3u8?token=e63183a728228b110285333f99932aa180ca3f5f-78-1744114135-1744078135
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="EVENTOS", GOL PERU
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132292
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="EVENTOS", ECDF
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132288
 
-#EXTINF:-1 group-title="EVENTOS", GOL PERU
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://la12hd.com
-#EXTVLCOPT:http-referrer=https://la12hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://wp9xqedt.fubohd.com/golperu/mono.m3u8?token=da3c7539904dca102a8a68c0138b98b659cef8d4-81-1744114064-1744078064
-
-
-#EXTINF:-1 group-title="EVENTOS", ECDF
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://la12hd.com
-#EXTVLCOPT:http-referrer=https://la12hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://c3bvcnrz.pelotahd.com/ecdf_ligapro/mono.m3u8?token=1f749baeba2aece5abda6f245597729a1a364fd4-a7-1744113934-1744077934
 
 EVENTOS DISNEY
 
@@ -333,7 +317,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YmIzNTlkNDY1NmQ2LWVlNTkt
 
 EVENTOS MLS
 
-#EXTINF:-1 group-title="EVENTOS", MLS
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamsvv1.su
@@ -341,7 +325,7 @@ EVENTOS MLS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YThmNWUzYTdiZThhLTYzNDktY2Q2NC0xZGY1LWQzOGUwYjJh/master.m3u8?md5=kUS9rNJC_4uFio9VURam0A&expires=1743296292
 
-#EXTINF:-1 group-title="EVENTOS", MLS 3
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://streamsvv1.su
