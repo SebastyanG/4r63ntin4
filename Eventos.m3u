@@ -21,7 +21,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #EXTVLCOPT:http-origin=https://streamsvv1.su
 #EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGQxZWU4YTdhYjMwLWFkNGItOGRiNC1mMGExLWYxOTBlNWQ3/master.m3u8?md5=5rKSxeZGy5ipvaXMgqSoWA&expires=1743296987
+
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -29,7 +29,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGQxZWU4YTdhYjMwLWFkNGIt
 #EXTVLCOPT:http-origin=https://streamsvv1.su
 #EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YzZjMWI1OGQ2NjM0LTYxZWEtZDcwNC01MjFkLWIyZGYwN2E2/master.m3u8?md5=XqazWL5Y89Yeykhj5kLQpQ&expires=1743297020
+
 
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -39,10 +39,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTcyOGMyYzQ3ZDIyLTZlYmEtMjA3NC1jMzY4LWU1MzIwYmMy/master.m3u8?md5=0zAOh6eJ1WFatr-UUQcp1g&expires=1743289206
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="EVENTOS", ESPN UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
