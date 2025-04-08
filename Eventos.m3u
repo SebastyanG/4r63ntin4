@@ -147,9 +147,15 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1N2E2YTBkZmJjMzFiLWU0ODgt
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MDE1MGUzYmZlNGJkLTZmN2ItODJiNC05MDljLWFmYWFmYTUx/master.m3u8?md5=nn5InFN86zuoVc9f7Q6qHA&expires=1743296890
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="EVENTOS", GOL PERU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132292
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="EVENTOS", ECDF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132288
 
 
