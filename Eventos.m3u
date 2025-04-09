@@ -100,7 +100,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131158
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/291856
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -142,13 +142,13 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131053
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132292
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/124533
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="EVENTOS", ECDF
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132288
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/67364
 
 
 EVENTOS DISNEY
