@@ -323,6 +323,14 @@ EVENTOS MLS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YThmNWUzYTdiZThhLTYzNDktY2Q2NC0xZGY1LWQzOGUwYjJh/master.m3u8?md5=kUS9rNJC_4uFio9VURam0A&expires=1743296292
 
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamsvv1.su
+#EXTVLCOPT:http-referrer=https://streamsvv1.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MWVlZDRkY2MyZWE4LTgzODktMjg3NC02Yjc2LTUxOTc2MzBl/master.m3u8?md5=bYrssdUdZ6VU7Eoo7Kh6wQ&expires=1744585911
+
 #EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
