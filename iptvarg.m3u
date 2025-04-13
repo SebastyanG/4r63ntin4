@@ -149,7 +149,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 #EXTVLCOPT:http-origin=https://streamsvv1.su
 #EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://netlevel.online:8080/MARIO630/GWPRM/310533
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8?md5=H3Urrg3hULjie639qmiEgw&expires=1744586400
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -157,7 +157,7 @@ http://netlevel.online:8080/MARIO630/GWPRM/310533
 #EXTVLCOPT:http-origin=https://streamsvv1.su
 #EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://netlevel.online:8080/MARIO630/GWPRM/456658
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8?md5=mHhsyOkjBDGpH0gkD00YVg&expires=1744586452
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -165,7 +165,7 @@ http://netlevel.online:8080/MARIO630/GWPRM/456658
 #EXTVLCOPT:http-origin=https://streamsvv1.su
 #EXTVLCOPT:http-referrer=https://streamsvv1.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://netlevel.online:8080/MARIO630/GWPRM/518959
+
 
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🇦🇷 TV ARGENTINA", UNIVERSAL CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
