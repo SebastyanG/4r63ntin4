@@ -37,17 +37,21 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", LA 1 ES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="EVENTOS", LA 1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dokko1new.newkso.ru/dokko1/premium533/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", LA 2 ES
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png" group-title="EVENTOS", LA 2 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dokko1new.newkso.ru/dokko1/premium536/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", TELEDEPORTE ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -141,8 +145,10 @@ https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="EVENTOS", Fox Sports 1 USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="EVENTOS", ESPN DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -164,205 +170,25 @@ https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131053
+
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="EVENTOS", GOL PERU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/124533
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="EVENTOS", ECDF
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/67364
 
 
 EVENTOS DISNEY
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTEyZGRlMzE1ZGU1LTZkZTgtNDMxNC1hZmZkLTFlZjdhMGE4/master.m3u8?md5=D81uAOK0SPGpY826Eg6LSg&expires=1743549239
 
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MzYwOTNhNDY3NDQ5LWRlM2ItOTM4NC1hM2RhLTg1NzFmYjk5/master.m3u8?md5=gJ97D_J5Pq8T759BVE4FpQ&expires=1743549299
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MmQ4MDZhN2ZhOWE4LWE1ODgtZDcxNC1jYTZkLWEyNDMyMWY1/master.m3u8?md5=C4OSz2j5HwDTyRkPqT3WWg&expires=1743549331
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTRkMjdlNzZjNmU0LTliNWEtZmE0NC0yNTRjLWQzNjU3NDBj/master.m3u8?md5=RJnQCwWB42zONR6f0oP5vQ&expires=1743549417
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ODcwZmI3NGJiY2FjLTA5MDgtOTVlNC1jYjMwLTE2ZGI5Mjll/master.m3u8?md5=z2_HiLvxBvdS1Svbu4ai8g&expires=1743549493
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MGE4OTE5Y2ZjNmJjLTY4YTgtM2IwNC1hN2NhLWI1YjY4NmRj/master.m3u8?md5=iUIKWfPl17wGaqYp46vVsg&expires=1743549529
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTZjNzQwNmQ4NDkwLTA2MzgtMjI1NC0wZDVhLTY3MzZkYTBh/master.m3u8?md5=odkb4rYar6phGbYit4u_dw&expires=1744086043
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OWQ0OTJiNGYwZTMyLWQyMDgtZGE0NC03YzgzLTM2NzUxZTQz/master.m3u8?md5=di3BTGKhQczQh2nc_9a5QA&expires=1744086077
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1M2U3MDMzNjk1NjMwLWZhYmEtNWVlNC0yODA3LWQ0NjA2YjNj/master.m3u8?md5=CAQ35iPKNv02S5YP7QAGeg&expires=1744086102
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Y2VjMzQwZDYyZjc3LTQ4YzktOTkxNC1iZDdhLTk3NzU4YmFj/master.m3u8?md5=zVRxnEWFFK2xVPUfQpSwqQ&expires=1744086127
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZGUzNmQ1Yzc3OTQ4LTBkMGItNzY1NC00ZmI3LTFlNjI4NzBl/master.m3u8?md5=EhoA8kBjcW-X927e-Wdufg&expires=1744086149
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 12
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NmU4ODBlOTZhZWQyLWMyOWItNzM4NC01YjNhLTIzNzA1OGQ2/master.m3u8?md5=SzjRD1qVnj3gg2ud2xYQbg&expires=1744086168
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 13
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZjFiMjFkZDQ0NDZmLTRjMmEtZGU2NC03NmJkLWQ5M2RhYTU3/master.m3u8?md5=mf8EVfy-d_yhlqtpqx7dEg&expires=1744086204
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 14
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OGU1NmQ1MDU2M2I3LTA0N2ItZjM2NC1kNjE3LTdjYzUyOTQ5/master.m3u8?md5=ioQBpdkGe7_olyvMx4KT8g&expires=1744086226
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 15
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YjM1N2MwNmRjOTdiLTMwM2EtYzc3NC1mN2MzLTY0NjVjNDNk/master.m3u8?md5=TiXpsw73n5fLHRnLmv7jrQ&expires=1744086249
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 16
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTg4ZjdkMmVhOTJiLTZhMzgtYzE0NC04M2I4LThmNDZhNWNk/master.m3u8?md5=gDr44C0sMYvoPqNcNzFp1A&expires=1744086274
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 17
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1N2NmM2UxMmJlNzQ5LThjZjgtMDBhNC1lNGVkLTVjNzY3MTg1/master.m3u8?md5=thbByQCr0cKXzdxpvl45og&expires=1744086295
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 18
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZDllOWI3NWRiNTM5LWZjN2EtODllNC1kZjYwLTIwMWQ1ZTU0/master.m3u8?md5=ODGAhlNxF7lchOgOZnE5Qw&expires=1744086318
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 19
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MjI1NzVlMTk0OTcxLWMyZjktNTNkNC1mNzM4LTE0YzEzODJm/master.m3u8?md5=tjz9k43m-pDkO83HZ68qjw&expires=1744086340
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", DISNEY 20
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YmIzNTlkNDY1NmQ2LWVlNTktZTZhNC0wNDk1LWI4MWI4ZDZm/master.m3u8?md5=XNRJYvN9AA0dlbkJe67Ryg&expires=1744086370
 
 EVENTOS MLS
 
 #EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1YThmNWUzYTdiZThhLTYzNDktY2Q2NC0xZGY1LWQzOGUwYjJh/master.m3u8?md5=kUS9rNJC_4uFio9VURam0A&expires=1743296292
-
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1MWVlZDRkY2MyZWE4LTgzODktMjg3NC02Yjc2LTUxOTc2MzBl/master.m3u8?md5=bYrssdUdZ6VU7Eoo7Kh6wQ&expires=1744585911
-
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamsvv1.su
-#EXTVLCOPT:http-referrer=https://streamsvv1.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1ZDhjZTYxOTczNGM1LTg2NzktZDI1NC1mZDEyLTRjMzA2Yjk0/master.m3u8?md5=zr3bz78lNZ-rlB3wVWRtAQ&expires=1743975550
