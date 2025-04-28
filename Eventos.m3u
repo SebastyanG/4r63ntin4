@@ -28,7 +28,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 
 
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
@@ -132,7 +132,7 @@ https://windnew.newkso.ru/wind/premium66/mono.m3u8
 #EXTVLCOPT:http-origin=https://webxzplay.cf
 #EXTVLCOPT:http-referrer=https://webxzplay.cf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-
+https://nfsnew.newkso.ru/nfs/premium935/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png" group-title="EVENTOS", Fox Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -191,10 +191,26 @@ EVENTOS DISNEY
 
 EVENTOS MLS
 
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
