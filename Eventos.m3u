@@ -192,3 +192,9 @@ EVENTOS DISNEY
 EVENTOS MLS
 
 #EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
