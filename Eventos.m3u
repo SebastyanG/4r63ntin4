@@ -20,6 +20,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra Argentina" tvg-logo="https://i.ibb.co/HYtGk6j/logo12-7-18026-removebg-preview.png", ESPN Extra Argentina
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium798/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
