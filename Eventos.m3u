@@ -54,7 +54,7 @@ https://windnew.newkso.ru/wind/premium43/mono.m3u8
 #EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1aeb739de2c14ed0ad658ca8043208d8:c88dc6c668cac3b468d4a4c7e176ff3d
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://aka-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
