@@ -230,3 +230,11 @@ https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/mls.png" group-title="EVENTOS", MLS 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://vodkapr3mium.com
+#EXTVLCOPT:http-referrer=https://vodkapr3mium.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://m5.merichunidya.com:999/hls/mlsusa.m3u8?md5=aDBdCRVKLw-Fhg0kaPjawQ&expires=1746323733&__PROXY_IDENTIFIER__=true
