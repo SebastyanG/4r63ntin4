@@ -229,3 +229,43 @@ https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="telekomsport1.ro" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/orangesports.png",Orange Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport2.ro" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/orangesports.png",Orange Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"MHv4idkpaf/TAU3dtnmZ9g", "kid":"91MCzbBKCeQ/FTCVvKzRIw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport3.ro" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/orangesports.png",Orange Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"HNKJrHHOX7MGpedlMZLOOg", "kid":"uHhXunTOA/n6KGbx4IbQXQ"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport4.ro" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/orangesports.png",Orange Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN CO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa4fe8ff1dd1591ba5055e3bd1e02d69":"2241738ed51690a89c5ee96be342700f","48959c4c91d05282af15f52069ebe0fd":"a11cffb97cd43a11e25c3ec1121b6b62","77172a47d3de53d4b2f9e8f4d48dad65":"fb005b7764afd9878819e717a5cc476e"}
+https://tvup-ccs-live.akamaized.net/espn/espn.mpd
+ 
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN CO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LEO70iL6S1ix-XTvyncu1A","k":"V3XN0YH9Xg6R88rLsMqO1A"},{"kty":"oct","kid":"nUDOLGNFTvyCbyblE38Txg","k":"iusccUFqdmhADlyZAFqLPg"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QFENP2/dash/manifest.mpd
