@@ -36,7 +36,13 @@ https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", prueba
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-031/stream.mpd
+
 
 
 #EXTINF:-1 tvg-id="Sky.Sports.21.mx" tvg-logo="https://i.postimg.cc/MZdCKP3W/Sky-Sports-La-Liga.png" group-title="EVENTOS", Sky Sports La Liga
@@ -182,16 +188,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="EVENTOS", GOL PERU
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="EVENTOS", ECDF
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
 
 EVENTOS DISNEY
