@@ -147,7 +147,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-origin=https://deporte-libre.link
-#EXTVLCOPT:http-referrer=https://deporte-libre.link/
+#EXTVLCOPT:http-referrer=https://deporte-libre.link/mpd2.php?id=directv-op3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://m7.merizatzarabnisha.com:999/hls/dsports.m3u8?md5=yWaWK0DOgUJdhe5wXnDMhA&expires=1745739746
 
