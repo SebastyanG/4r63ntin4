@@ -6,9 +6,11 @@
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", PRUEBA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
-https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-referrer=https://365streamtv.live/
+#EXTVLCOPT:http-origin=https://365streamtv.live
+https://cdn2.aluku91.foundation/usa-tudn.m3u8
 
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
