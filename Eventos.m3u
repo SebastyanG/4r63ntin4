@@ -13,6 +13,22 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://cdn2.aluku91.foundation/usa-tudn.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", PRUEBA 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-origin=https://lewblivehdplay.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://cdn002.rtzhx12.online/pre22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", prueba 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-origin=https://widevine.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https:////webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
