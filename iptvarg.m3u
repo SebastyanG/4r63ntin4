@@ -144,7 +144,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 #EXTVLCOPT:http-origin=https://streamdp1.xyz
 #EXTVLCOPT:http-referrer=https://streamdp1.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://x4ss7l01e.gwjbggdx.space/dsports/index.m3u8?token=GysyeCgFaY2O
+
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -152,7 +152,7 @@ https://x4ss7l01e.gwjbggdx.space/dsports/index.m3u8?token=GysyeCgFaY2O
 #EXTVLCOPT:http-origin=https://streamdp1.xyz
 #EXTVLCOPT:http-referrer=https://streamdp1.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://sp74qwfu3.gwjbggdx.space/dsports2/index.m3u8?token=GysyeCgFaY2O
+
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -160,7 +160,7 @@ https://sp74qwfu3.gwjbggdx.space/dsports2/index.m3u8?token=GysyeCgFaY2O
 #EXTVLCOPT:http-origin=https://streamdp1.xyz
 #EXTVLCOPT:http-referrer=https://streamdp1.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://r9u18.gwjbggdx.space/dsportsplus/index.m3u8?token=GysyeCgFaY2O
+
 
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🇦🇷 TV ARGENTINA", UNIVERSAL CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
