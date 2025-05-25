@@ -263,11 +263,10 @@ EVENTOS DISNEY
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", prueba
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://lewblivehdplay.ru
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrunns.mizhls.ru/lb/premium84/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
 EVENTOS MLS
