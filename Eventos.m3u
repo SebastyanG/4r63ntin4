@@ -50,12 +50,28 @@ https://aka-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GHqBPVz/La1-logo.png" group-title="EVENTOS", LA 1 ES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dokko1new.newkso.ru/dokko1/premium533/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qF7Zy0f/La2-logo.png" group-title="EVENTOS", LA 2 ES
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dokko1new.newkso.ru/dokko1/premium536/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7QP3X8W/tdp-logo.webp" group-title="EVENTOS", TELEDEPORTE ES
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="EVENTOS", Bein Sport Ñ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -118,7 +134,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://windnew.newkso.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png" group-title="EVENTOS", Fox Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -145,40 +166,28 @@ https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="EVENTOS", ESPN MX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN 2 MX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN 3 MX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN 4 MX
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=666607af08b9eeddaae1d6c36a34d689:10fdc24a14e8423f5e5ff03569439b14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
+https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" group-title="EVENTOS", ESPN USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
+#EXTVLCOPT:http-origin=https://webxzplay.cf
+#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN AR
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -225,26 +234,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 EVENTOS DISNEY
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", prueba
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", prueba 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f" group-title="EVENTOS", prueba 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd?
 
 EVENTOS MLS
 
