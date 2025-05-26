@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://wikinew.newkso.ru/wiki/daznf1/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/330px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="EVENTOS", SKY F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -14,23 +14,23 @@ https://wikinew.newkso.ru/wiki/daznf1/mono.m3u8
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://wikinew.newkso.ru/wiki/skyf1/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/skyf1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://wikinew.newkso.ru/wiki/dazn1spain/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium445/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN2.png" group-title="EVENTOS", DAZN 2 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://wikinew.newkso.ru/wiki/dazn2spain/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN3.png" group-title="EVENTOS", DAZN 3 ES
 
@@ -41,8 +41,8 @@ https://wikinew.newkso.ru/wiki/dazn2spain/mono.m3u8
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 
@@ -136,7 +136,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
