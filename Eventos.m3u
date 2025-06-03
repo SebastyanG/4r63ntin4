@@ -9,7 +9,11 @@
 https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png" group-title="EVENTOS", SKY F1
-https://7pal.short.gy/ssportsf1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://rr.buytommy.top/s/gtIglpQ7XFJObxYxi0kDlLHjye52ghwRKRbqBKDqMyvsoze7g86Pf3HUU1ogqJWY/zv0JEOhe9EM06OlA3TL8DXoEUo-n-M3gIumOTGzd5uICn0L-CLVajCd2DFZ_TYNRj_-CPK7bRvOzwSDihqZarQ/qWppQqsJww28nKTEEgbVrHB9aikQ29q8RSRx0RuWXplJEi1VwfAuI5hQvRXL7gXP/strm.m3u8?md5=7xZ4rAT0MxN4oJnPzHG2yQ&expiry=1748929827
+
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
