@@ -549,5 +549,5 @@ https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|refer
 #EXTINF:-1  ch-number="214" tvg-id="Pakapaka.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" group-title="🇦🇷 TV ARGENTINA", Paka Paka
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLAROTV" content-type="playlist", CLAROTV
-https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/CLAROTV.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLAROTV" content-type="playlist", FLOW TV
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/FLOWTV.m3u
