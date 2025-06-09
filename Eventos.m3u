@@ -30,7 +30,7 @@ https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/p
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
 #EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://tinworld-myproxy.hf.space/proxy?url=http://wikinew.newkso.ru/wiki/skyf1/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=http://windnew.newkso.ru/wind/premium60/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #EXTVLCOPT:network-caching=1500
@@ -87,12 +87,12 @@ https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/p
 https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium536/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7QP3X8W/tdp-logo.webp" group-title="EVENTOS", TELEDEPORTE ES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="EVENTOS", Bein Sport Ñ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
