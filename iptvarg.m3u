@@ -76,7 +76,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|ref
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="CANAL E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="🇦🇷 TV ARGENTINA", CANAL E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://git.io/JOTOg" group-title="🇦🇷 TV ARGENTINA", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
