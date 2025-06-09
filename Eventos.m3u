@@ -152,68 +152,68 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" group-title="EVENTOS", TUDN USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
 #EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" group-title="EVENTOS", TUDN MX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://windnew.newkso.ru/wind/premium66/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15377_h15_ab.png" group-title="EVENTOS", Fox Deportes
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="EVENTOS", Fox Sports 1 USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.Deportes.sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" group-title="EVENTOS", ESPN DEPORTES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="EVENTOS", ESPN MX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN 2 MX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" group-title="EVENTOS", ESPN USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://webxzplay.cf
-#EXTVLCOPT:http-referrer=https://webxzplay.cf/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
 EVENTOS DISNEY
 
