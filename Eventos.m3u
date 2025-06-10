@@ -243,6 +243,41 @@ http://179.51.136.19:8000/play/a1ml/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
+#EXTINF:-1 tvg-id="310#DSPORTS (URU)" ch-number="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.png" group-title="Deportes", Dsports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
+https://1062-aws-da-mt.vrioott.com/a208848b6cb64ea3847cb6a5352be4e5/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="612#DSPORTS 2" ch-number="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Deportes", Dsports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ccf45a4a661414eaa108393e25dd26f:705971b709c7093621b558cf94320d87
+https://1063-aws-da-mt.vrioott.com/3e35a42c033746b790824260a2df8f88/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="" ch-number="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.png" group-title="Deportes", Dsports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bdab48544505e9580ab372480637497:081de8545b339ba095918bd3aa251e86
+https://1066-tbx.vrioott.com/directvsportsocc3/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="DTV Eventos 5" ch-number="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.png" group-title="Deportes", Dsports 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2878a00817f25d958b735ddc9aeae3bb:b9037824c0a59cf1e9c1e58108089ea7
+https://1068-tbx.vrioott.com/directvsportsocc5/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="DTV Eventos 6" ch-number="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.pngg" group-title="Deportes", Dsports 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dad5778f88f5432881fb6dc5cf73cd4:d305d24cddfb03fe1b23fa82f312b548
+https://1069-tbx.vrioott.com/directvsportsocc6/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="DTV Eventos 7" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/640px-DSports.png" group-title="Deportes", Dsports 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20288c3bcc585ee48b80ac0828a76ca8:6939146114120767eceea35c52d5c6e3
+https://1070-tbx.vrioott.com/directvsportsocc7/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
+#EXTINF:-1 tvg-id="613#DSPORTS +" ch-number="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes", Dsports +
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=75bb246e11064157b5bab22a799d2989:c498f2a978c23f240b18fb171fd150c8
+https://1071-aws-da-mt.vrioott.com/56278dc70dbc4343b98acaa132834b00/manifest.mpd?hdnts=exp%3D1749527114%7Eacl%3D%2F*%7Eid%3D13ee66ea-e63c-4390-9ff5-d139813a4781%7Ehmac%3D1b406faf26fa15b2b79391e51094d9af1dc9f22e7910a1450fd7ded240d72188&tokenization=true&da=1&ads.accountId=13ee66ea-e63c-4390-9ff5-d139813a4781&ads.accountType=DTH&ads.channelId=CH0100000000341&ads.country=AR&ads.deviceId=6b7084ce-961a-42c7-9c5d-5ec344d75f87&ads.deviceType=android_mobile&aws.sessionId=75d17164-7483-44eb-abd3-fd7a024827dc
+
 EVENTOS DISNEY
 
 
