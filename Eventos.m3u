@@ -1,20 +1,38 @@
 #EXTM3U refresh="0.01"
 
-#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="EVENTOS", Gen TV Paraguay
+#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="ELIMINATORIAS", Gen TV Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="EVENTOS", Trece Paraguay
+#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="ELIMINATORIAS", Trece Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="EVENTOS", Unicanal Paraguay
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="ELIMINATORIAS", Unicanal Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Icono-AmericaTVlogo.png" group-title="ELIMINATORIAS", AMERICA TV PERU
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+http://179.51.136.19:8000/play/a1aq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/320px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="ELIMINATORIAS", RCN COLOMBIA
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+http://179.51.136.19:8000/play/a1ao/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="ELIMINATORIAS", DSPORTS COLOMBIA
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #EXTVLCOPT:network-caching=1500
@@ -191,7 +209,7 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="EVENTOS", ESPN MX
+#EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="EVENTOS", ESPN MEXICO
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
@@ -199,15 +217,25 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/j11snf1660762168.png" group-title="EVENTOS", ESPN CHILE
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
-#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium926/mono.m3u8
+http://179.51.136.19:8000/play/a1mi/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" group-title="EVENTOS", ESPN USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png" group-title="EVENTOS", ESPN COLOMBIA
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+http://179.51.136.19:8000/play/a1kq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="EVENTOS", ESPN PREMIUM
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+http://179.51.136.19:8000/play/a1ml/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="EVENTOS", ESPN USA
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
