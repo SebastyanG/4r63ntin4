@@ -16,17 +16,20 @@ https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
 https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Icono-AmericaTVlogo.png" group-title="ELIMINATORIAS", AMERICA TV PERU
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-http://179.51.136.19:8000/play/a1aq/index.m3u8
+#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/320px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="ELIMINATORIAS", RCN COLOMBIA
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-http://179.51.136.19:8000/play/a1ao/index.m3u8
+#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd?|Origin=https://portal.app.flow.com.ar//
+
+#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
+https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|Origin=https://portal.app.flow.com.ar//
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
 #EXTVLCOPT:network-caching=1500
