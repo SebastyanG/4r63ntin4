@@ -31,7 +31,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="Fórmula 1", DAZN  F1
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
@@ -39,7 +39,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png" group-title="EVENTOS", SKY F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png" group-title="Fórmula 1", SKY F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd
@@ -253,6 +253,49 @@ http://179.51.136.19:8000/play/a1ml/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
+#EXTINF:0 group-title="Fórmula 1" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png"
+#
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="BANDSPORTS" tvg-name="Band Sport 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band Sport 🇧🇷
+http://185.236.183.117:14048/Bandsporthd
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="Band Sport 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band Sport/Band 🇧🇷
+https://windnew.newkso.ru/wind/premium275/mono.m3u8
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="SKY.Sport.F1.de" tvg-name="Sky Sports F1 🇩🇪 🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Sky Sports F1 🇩🇪 🏎️
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367554.ts
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367555.ts
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/367556.ts
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
+http://novabox.club/live/conectStreax/K2tbMNebMW/365147.ts
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" ch-number="13",Band
+https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="Band ⚽️🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band
+http://185.236.183.117:14033/Bandfhd
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="Band ⚽️🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:0 group-title="Fórmula 1" tvg-name="BAND SPORTS FHD²²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band Sports
+http://novabox.club/live/conectStreax/K2tbMNebMW/355630.m3u8
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
+https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
+
+#EXTINF:-1 group-title="Fórmula 1" tvg-name="FOX SPORTS.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Fox Sports MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
 EVENTOS DISNEY
 
