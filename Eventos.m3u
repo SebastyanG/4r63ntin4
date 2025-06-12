@@ -270,14 +270,15 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/367554.ts
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
 http://novabox.club/live/conectStreax/K2tbMNebMW/367555.ts
 
-#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
-http://novabox.club/live/conectStreax/K2tbMNebMW/367556.ts
+#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Fox Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
 http://novabox.club/live/conectStreax/K2tbMNebMW/365147.ts
-
-#EXTINF:-1 group-title="Fórmula 1" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png" ch-number="13",Band
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="Band ⚽️🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band
 http://185.236.183.117:14033/Bandfhd
@@ -298,6 +299,35 @@ https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
 EVENTOS DISNEY
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 1 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20203
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 2 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 2 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20220
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 3 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 3 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20233
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 4 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 4 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20285
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 5 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20286
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »1«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »1«
+http://fastream.xyz:8080/941842505tv/bu8753/248464
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »2«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »2«
+http://fastream.xyz:8080/941842505tv/bu8753/248465
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »3«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »3«
+http://fastream.xyz:8080/941842505tv/bu8753/248466
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »4«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »4«
+http://fastream.xyz:8080/941842505tv/bu8753/248467
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »5«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »5«
+http://fastream.xyz:8080/941842505tv/bu8753/248468
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »6«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »6«
+http://fastream.xyz:8080/941842505tv/bu8753/248469
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »7«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »7«
+http://fastream.xyz:8080/941842505tv/bu8753/248470
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »8«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »8«
+http://fastream.xyz:8080/941842505tv/bu8753/248471
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »9«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »9«
+http://fastream.xyz:8080/941842505tv/bu8753/252707
 
 EVENTOS MLS
 
