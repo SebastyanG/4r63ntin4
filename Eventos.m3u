@@ -74,8 +74,11 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="EVENTOS",Sky Sports MX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://i.ibb.co/TY7vtjy/dazn-laliga.png" group-title="EVENTOS", DAZN LA LIGA
