@@ -259,16 +259,13 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 http://185.236.183.117:14048/Bandsporthd
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="Band Sport 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band Sport/Band 🇧🇷
-https://windnew.newkso.ru/wind/premium275/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium275/mono.m3u8
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="SKY.Sport.F1.de" tvg-name="Sky Sports F1 🇩🇪 🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Sky Sports F1 🇩🇪 🏎️
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium274/mono.m3u8
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
-http://novabox.club/live/conectStreax/K2tbMNebMW/367554.ts
-
-#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
-http://novabox.club/live/conectStreax/K2tbMNebMW/367555.ts
+http://cdn1host.online:2999//kratorius/opLcbhlXaT/1442
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Fox Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -277,17 +274,11 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/367555.ts
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 group-title="Fórmula 1" tvg-id="DAZN.F1.es" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
-http://novabox.club/live/conectStreax/K2tbMNebMW/365147.ts
-
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="Band ⚽️🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band
 http://185.236.183.117:14033/Bandfhd
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="Band ⚽️🏎️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:0 group-title="Fórmula 1" tvg-name="BAND SPORTS FHD²²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",Band Sports
-http://novabox.club/live/conectStreax/K2tbMNebMW/355630.m3u8
 
 #EXTINF:-1 group-title="Fórmula 1" tvg-name="DAZN.F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",DAZN F1
 https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
