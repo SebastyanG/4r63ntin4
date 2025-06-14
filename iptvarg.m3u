@@ -75,8 +75,10 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?&ref
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?&referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="CANAL E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="🇦🇷 TV ARGENTINA", CANAL E
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg" group-title="🇦🇷 TV ARGENTINA", BRAVO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="DEPORTV.ar" tvg-logo="https://git.io/JOTOg" group-title="🇦🇷 TV ARGENTINA", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -147,12 +149,10 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="🇦🇷 TV ARGENTINA", DSports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/613.png" group-title="🇦🇷 TV ARGENTINA", DSports +
 
