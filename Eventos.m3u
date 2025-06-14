@@ -1,48 +1,80 @@
 #EXTM3U refresh="0.01"
 
-#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="ELIMINATORIAS", Gen TV Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="ELIMINATORIAS", Trece Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="ELIMINATORIAS", Unicanal Paraguay
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 2
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
 https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 group-title="ELIMINATORIAS" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 3
+#EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="Fórmula 1", DAZN  F1
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports ARG
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
-#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png" group-title="Fórmula 1", SKY F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd
+#EXTINF:-1 tvg-id="ZONATUDNUS(GEO).us" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" group-title="EVENTOS", ZONA TUDN US (GEO)
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://tinworld-myproxy.hf.space/proxy?url=https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="EVENTOS",SNT Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://portal.app.flow.com.ar//
+
+#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="EVENTOS",Telefuturo Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|Origin=https://portal.app.flow.com.ar//
+
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png" group-title="EVENTOS", Win Sports HD
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
+
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports ARG
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports PE
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports EC
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports UY
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+https://593zona.live:8443/live/PelisOTT25/PelisOTT25/870987.m3u8
+
+#EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="EVENTOS", Gen TV Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="EVENTOS", Trece Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="EVENTOS", Unicanal Paraguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #EXTVLCOPT:network-caching=1500
@@ -61,14 +93,8 @@ https://tinworld-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premi
 https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN3.png" group-title="EVENTOS", DAZN 3 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="EVENTOS",Sky Sports La Liga
 #EXTVLCOPT:network-caching=1500
@@ -131,32 +157,32 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="EVENTOS", ESPN UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="EVENTOS", ESPN 2 UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="EVENTOS", ESPN 3 UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
-https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="EVENTOS", ESPN 5 UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="EVENTOS", ESPN 6 UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="EVENTOS", ESPN 7 UY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="EVENTOS", FOX Sports Premium MEXICO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -219,39 +245,38 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="EVENTOS", ESPN MEXICO
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
-#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://tinworld-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium925/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20203
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 2 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20220
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 3 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20233
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 4 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20285
+#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD)
+http://fastream.xyz:8080/941842505tv/bu8753/20286
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »1«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »1«
+http://fastream.xyz:8080/941842505tv/bu8753/248464
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »2«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »2«
+http://fastream.xyz:8080/941842505tv/bu8753/248465
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »3«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »3«
+http://fastream.xyz:8080/941842505tv/bu8753/248466
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »4«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »4«
+http://fastream.xyz:8080/941842505tv/bu8753/248467
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »5«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »5«
+http://fastream.xyz:8080/941842505tv/bu8753/248468
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »6«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »6«
+http://fastream.xyz:8080/941842505tv/bu8753/248469
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »7«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »7«
+http://fastream.xyz:8080/941842505tv/bu8753/248470
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »8«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »8«
+http://fastream.xyz:8080/941842505tv/bu8753/248471
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »9«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="EVENTOS",EVENTOS DISNEY+ »9«
+http://fastream.xyz:8080/941842505tv/bu8753/252707
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/j11snf1660762168.png" group-title="EVENTOS", ESPN CHILE
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-http://179.51.136.19:8000/play/a1mi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png" group-title="EVENTOS", ESPN COLOMBIA
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-http://179.51.136.19:8000/play/a1kq/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="EVENTOS", ESPN PREMIUM
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-http://179.51.136.19:8000/play/a1ml/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" group-title="EVENTOS", ESPN USA
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
-#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
+FORMULA 1
 
 #EXTINF:0 group-title="Fórmula 1" group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png"
 #
@@ -289,36 +314,21 @@ https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-EVENTOS DISNEY
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="Fórmula 1", DAZN  F1
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 1 (HD)
-http://fastream.xyz:8080/941842505tv/bu8753/20203
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 2 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 2 (HD)
-http://fastream.xyz:8080/941842505tv/bu8753/20220
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 3 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 3 (HD)
-http://fastream.xyz:8080/941842505tv/bu8753/20233
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 4 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 4 (HD)
-http://fastream.xyz:8080/941842505tv/bu8753/20285
-#EXTINF:-1 tvg-id="" tvg-name="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←",PPV• EVENTOS 5 (HD)
-http://fastream.xyz:8080/941842505tv/bu8753/20286
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »1«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »1«
-http://fastream.xyz:8080/941842505tv/bu8753/248464
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »2«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »2«
-http://fastream.xyz:8080/941842505tv/bu8753/248465
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »3«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »3«
-http://fastream.xyz:8080/941842505tv/bu8753/248466
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »4«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »4«
-http://fastream.xyz:8080/941842505tv/bu8753/248467
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »5«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »5«
-http://fastream.xyz:8080/941842505tv/bu8753/248468
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »6«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »6«
-http://fastream.xyz:8080/941842505tv/bu8753/248469
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »7«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »7«
-http://fastream.xyz:8080/941842505tv/bu8753/248470
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »8«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »8«
-http://fastream.xyz:8080/941842505tv/bu8753/248471
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DISNEY+ »9«" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" group-title="→ EVENTOS DISNEY+ ←",EVENTOS DISNEY+ »9«
-http://fastream.xyz:8080/941842505tv/bu8753/252707
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y28X8wvx/sky-sports-f1-uk.png" group-title="Fórmula 1", SKY F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd
+
+
+
 
 EVENTOS MLS
 
