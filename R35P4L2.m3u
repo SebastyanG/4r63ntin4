@@ -1038,6 +1038,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal
 
 ------------------------------------------SENSA---------------------------------------------------
 --------------------------------------------------------------------------------------------------
+#EXTM3U refresh="0.01"
 
 #EXTINF:-1 group-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="🇦🇷 SENSA LOCAL",#️⃣  AMERICA 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
