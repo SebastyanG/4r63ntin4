@@ -20,11 +20,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #EXTVLCOPT--http-reconnect=true
 https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
 
-#EXTINF:-1 tvg-id="ZONATUDNUS(GEO).us" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" group-title="EVENTOS", ZONA TUDN US (GEO)
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-https://tinworld-myproxy.hf.space/proxy?url=https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
-
 #EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="EVENTOS",SNT Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
@@ -35,25 +30,10 @@ https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
 https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|Origin=https://portal.app.flow.com.ar//
 
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png" group-title="EVENTOS", Win Sports HD
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
-
-#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports ARG
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports PE
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports EC
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT--http-reconnect=true
-http://novabox.club/live/conectStreax/K2tbMNebMW/402218.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports UY
 #EXTVLCOPT:network-caching=1500
@@ -96,12 +76,12 @@ https://tinworld-myproxy.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premi
 
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://i.ibb.co/WW7tyZc/DAZN4.png" group-title="EVENTOS", DAZN 4 ES
 
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="EVENTOS",Sky Sports La Liga
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="EVENTOS",Sky Sports La Liga
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/dqyFe0n.pngg" group-title="EVENTOS",Sky Sports MX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqyFe0n.pngg" group-title="EVENTOS",Sky Sports MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
