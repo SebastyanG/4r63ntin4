@@ -111,9 +111,9 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd?|refer
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="🇦🇷 TV ARGENTINA", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="ESPN 4 HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="🇦🇷 TV ARGENTINA", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
