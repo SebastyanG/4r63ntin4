@@ -546,7 +546,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|refer
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CLAROTV" content-type="playlist", FLOW TV
-https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/R35P4L2.m3u
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/R35P4L2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS" content-type="playlist", EVENTOS
-https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/Eventos.m3u
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/Eventos
