@@ -33,6 +33,13 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/569wj9v/DAZN.png" group-title="MUNDIAL", DAZN
 https://dcb-fl-live.dtcdn.dazn.com/yg1tjg0pedx516xzbwksv2mra/web/stream.mpd?channel=1629&outlet=dazn-row&plang=es
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/569wj9v/DAZN.png" group-title="MUNDIAL", DAZN
+https://dcb-fl-live.dtcdn.dazn.com/19emodlig27te1gcg0h4hg4uj7/web/stream.mpd?channel=1630&outlet=dazn-row&plang=es
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/569wj9v/DAZN.png" group-title="MUNDIAL", DAZN
+https://dcb-fl-live.dtcdn.dazn.com/17e1hhy6xtwnb1jecoq70ql8fr/web/stream.mpd?channel=1638&outlet=dazn-row&plang=es
+
+
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="MUNDIAL", DSports ARG
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
