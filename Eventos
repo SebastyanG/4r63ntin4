@@ -16,7 +16,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|Origin=https://portal.app.flow.com.ar//
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN
-https://dcb-fl-live.dtcdn.dazn.com/19zw39m4t40f71wm0pdcla8q6o/web/stream.mpd?channel=1644&outlet=dazn-row&plang=es
+https://dcb-fl-live.dtcdn.dazn.com/17e1hhy6xtwnb1jecoq70ql8fr/web/stream.mpd?channel=1638&outlet=dazn-row&plang=es
 
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="EVENTOS", DSports ARG
 #EXTVLCOPT:network-caching=1500
