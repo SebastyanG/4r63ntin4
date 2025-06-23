@@ -3,20 +3,22 @@
 #EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
-https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd?|origin=https://web.app.flow.com.py
+
 #EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
-https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd?|origin=https://web.app.flow.com.py
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="MUNDIAL",Telefé
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS PY 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -26,7 +28,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="MUNDIAL", DSports ARG
 #EXTVLCOPT:network-caching=1500
@@ -36,26 +38,28 @@ https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argds
 #EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="MUNDIAL",SNT Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|origin=https://web.app.flow.com.py
+
 #EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1" group-title="MUNDIAL",Telefuturo Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|Origin=https://portal.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|origin=https://web.app.flow.com.py
+
 #EXTINF:-1 tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="EVENTOS", Gen TV Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="EVENTOS", Trece Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="EVENTOS", Unicanal Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.py
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|origin=https://web.app.flow.com.py
 
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="EVENTOS", DAZN 1 ES
 #EXTVLCOPT:network-caching=1500
