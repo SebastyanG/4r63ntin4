@@ -20,10 +20,30 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|origin=https://web.app.flow.com.py
 
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS PY 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS 2 PY 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS PY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS 3 PY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
