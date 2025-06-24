@@ -53,7 +53,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_U
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="MUNDIAL", DSports ARG
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
-https://tinworld-myproxy.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/argdsport/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9 Snt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" group-title="MUNDIAL",SNT Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
