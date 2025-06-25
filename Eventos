@@ -30,8 +30,11 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="MUNDIAL", TIGO SPORTS 3 PY
-
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://git.io/JOTOu" group-title="MUNDIAL", Telefe 2
+#EXTVLCOPT:network-caching=1500
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 group-title="MUNDIAL" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
