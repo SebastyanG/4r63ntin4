@@ -449,7 +449,7 @@
           "online": "true",
           "isHost": "true"
         },
-		{
+        {
           "name": "BEIN SPORTS Ñ | 🇦🇷",
           "info": "[teleplay]",
           "online": "true",
@@ -476,7 +476,7 @@
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
           "isHost": "true"
         },
-		{
+        {
           "name": "TyC Sports Internacional | 🇦🇷",
           "info": "[Tutv]",
           "online": "true",
@@ -538,7 +538,7 @@
         },
         {
           "name": "ESPN 1 | 🇲🇽",
-		  "info": "[Tutv]",
+          "info": "[Tutv]",
           "image": "https://i.imgur.com/MFhpD4D.png",
           "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -553,7 +553,7 @@
         },
         {
           "name": "ESPN 2 | 🇲🇽",
-		  "info": "[Tutv]",
+          "info": "[Tutv]",
           "image": "https://i.imgur.com/jq1s4to.png",
           "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2mx",
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -561,15 +561,15 @@
         },
         {
           "name": "ESPN 3 | 🇲🇽",
-		  "info": "[Tutv]",
+          "info": "[Tutv]",
           "image": "https://i.imgur.com/y3VGGV0.png",
           "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3mx",
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
           "isHost": "true"
         },
-		{
+        {
           "name": "ESPN 4 | 🇲🇽",
-		  "info": "[Tutv]",
+          "info": "[Tutv]",
           "image": "https://i.imgur.com/y3VGGV0.png",
           "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4mx",
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
@@ -717,14 +717,14 @@
       "name": "CANALES",
       "image": "https://static.wixstatic.com/media/603da4_cff0a56da59a43ba88f862dbee0ae230~mv2.gif",
       "stations": [
-         {
+        {
           "name": "America Tv | 🇦🇷",
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
           "online": "true",
           "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        },		
-		{
+        },
+        {
           "name": "MEGA | 🇨🇱",
           "info": "[Online]",
           "online": "true",
@@ -848,26 +848,661 @@
           "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
           "isHost": true
         }
-	  ]
+      ]
     },
     {
-      "name": "DISNEY",
-      "image": "https://logowik.com/content/uploads/images/disney5456.jpg",
+      "name": "PRINCIPALES",
+      "image": "https://i.imgur.com/ehmvuI6.png",
       "stations": [
-		{
-          "name": "DISNEY 1",
-          "image": "https://logowik.com/content/uploads/images/disney5456.jpg",
+        {
+          "name": "Estacion Radio",
+          "image": "https://cdn.instant.audio/images/logos/radioarg-com/estacion-radio.png",
           "online": "true",
-          "url": "https://cplus.lat/Teleplay/Juridico/la14/stream.php?stream=disney1",
-		  "referer": "https://cplus.lat/Teleplay/Juridico/la14/",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+          "url": "https://server.laradio.online/proxy/diego_gramigna?mp=/stream"
         },
-		{
-          "name": "DISNEY 8",
-          "image": "https://logowik.com/content/uploads/images/disney5456.jpg",
+        {
+          "name": "Tnt Sports",
+          "image": "https://gollibre.com/img/tntsports.png",
           "online": "true",
-          "url": "https://cplus.lat/Teleplay/Juridico/la14/stream.php?stream=disney8",
-		  "referer": "https://cplus.lat/Teleplay/Juridico/la14/",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+          "url": "https://tvtvhd.com/canales.php?stream=tntsports"
         },
-]
+        {
+          "name": "Radio Vos",
+          "image": "https://www.radiovos955.com/wp-content/uploads/2018/03/logo955.png",
+          "online": "true",
+          "url": "https://frontend.radiohdvivo.com/radiovos955/live"
+        },
+        {
+          "name": "TELEFE",
+          "image": "https://bestleague.world/img/telefe.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZWZlSEQ=&lang=1"
+        },
+        {
+          "name": "El Trece",
+          "image": "https://bestleague.world/img/eltrece.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QXJ0ZWFySEQ&lang=1"
+        },
+        {
+          "name": "El Nueve",
+          "image": "https://bestleague.world/img/nueve.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw5&lang=1"
+        },
+        {
+          "name": "Tv Publica",
+          "image": "https://bestleague.world/img/tvpublica.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw3&lang=1"
+        },
+        {
+          "name": "America Tv",
+          "image": "https://bestleague.world/img/america.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYVRW&lang=1"
+        },
+        {
+          "name": "Cronica",
+          "image": "https://bestleague.world/img/cronica.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q3JvbmljYVRW&lang=1"
+        },
+        {
+          "name": "C5n",
+          "image": "https://bestleague.world/img/c5n.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QzVO&lang=1"
+        },
+        {
+          "name": "Tn",
+          "image": "https://bestleague.world/img/tn.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VG9kb05vdGljaWFz&lang=1"
+        },
+        {
+          "name": "A24",
+          "image": "https://bestleague.world/img/a24.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYTI0&lang=1"
+        },
+        {
+          "name": "Canal 26",
+          "image": "https://bestleague.world/img/canal26.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=MjZfVFZfSEQ&lang=1"
+        },
+        {
+          "name": "Ln",
+          "image": "https://bestleague.world/img/ln.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TGFfTmFjaW9u&lang=1"
+        },
+        {
+          "name": "Dtv",
+          "image": "https://bestleague.world/img/dtv.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlwdXRhZG9zX1RW&lang=1"
+        },
+        {
+          "name": "Volver",
+          "image": "https://bestleague.world/img/volver.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Vm9sdmVy&lang=1"
+        },
+        {
+          "name": "Ciudad Magazine",
+          "image": "https://bestleague.world/img/ciudad.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TWFnYXppbmU=&lang=1"
+        },
+        {
+          "name": "Bravotv",
+          "image": "https://bestleague.world/img/bravotv.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QnJhdm9UVg==&lang=1"
+        },
+        {
+          "name": "Nettv",
+          "image": "https://bestleague.world/img/nettv.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TmV0X1RW&lang=1"
+        },
+        {
+          "name": "Ip",
+          "image": "https://bestleague.world/img/ip.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=&lang=1"
+        },
+        {
+          "name": "Encuentro",
+          "image": "https://bestleague.world/img/encuentro.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RW5jdWVudHJv&lang=1"
+        },
+        {
+          "name": "Canaldelaciudad",
+          "image": "https://bestleague.world/img/canaldelaciudad.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFfY2l1ZGFk&lang=1"
+        },
+        {
+          "name": "Metro",
+          "image": "https://bestleague.world/img/metro.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1"
+        },
+        {
+          "name": "Kzo",
+          "image": "https://bestleague.world/img/kzowhite.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1"
+        },
+        {
+          "name": "Canal12cordoba",
+          "image": "https://bestleague.world/img/docor.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfMTJfQ0JB&lang=1"
+        },
+        {
+          "name": "Argentinisima",
+          "image": "https://bestleague.world/img/arsat.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QXJnZW50aW5pc2ltYQ&lang=1"
+        },
+        {
+          "name": "Rural",
+          "image": "https://bestleague.world/img/rural.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfUnVyYWw=&lang=1"
+        },
+        {
+          "name": "Tyc Sports",
+          "image": "https://bestleague.world/img/tyc.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+        },
+        {
+          "name": "Tnt Sports",
+          "image": "https://gollibre.com/img/tntsports.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+        },
+        {
+          "name": "Espn Premium",
+          "image": "https://bestleague.world/img/espnpr.webp",
+          "online": "true",
+          "url": "https://can27-05cablepatodoscanembplaeer-flo3.blogspot.com/p/todosossscaaanfloooop3.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+        },
+        {
+          "name": "Espn Premium opc 2",
+          "image": "https://bestleague.world/img/espnpr.webp",
+          "online": "true",
+          "url": "https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=5640a27bbc3e171e9d34b2f71fbb1198ae8f2ae6-d-1773286301-1773268301"
+        },
+        {
+          "name": "Espn",
+          "image": "https://bestleague.world/img/espn.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJIRA&lang=1"
+        },
+        {
+          "name": "Espn 2",
+          "image": "https://bestleague.world/img/espn2.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJfQXJn&lang=1"
+        },
+        {
+          "name": "Espn 3",
+          "image": "https://bestleague.world/img/espn3.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjM=&lang=1"
+        },
+        {
+          "name": "Espn 4",
+          "image": "https://bestleague.world/img/espn4.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTkhE&lang=1"
+        },
+        {
+          "name": "Espn 5",
+          "image": "https://bestleague.world/img/espn5.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjQ=&lang=1"
+        },
+        {
+          "name": "Espn 6",
+          "image": "https://bestleague.world/img/espn6.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM19VWQ==&lang=1"
+        },
+        {
+          "name": "Espn 7",
+          "image": "https://bestleague.world/img/espn7.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMl9VWQ==&lang=1"
+        },
+        {
+          "name": "Fox Sports",
+          "image": "https://bestleague.world/img/foxsports.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRz&lang=1"
+        },
+        {
+          "name": "Fox Sports 2",
+          "image": "https://bestleague.world/img/foxsports2.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMkhE&lang=1"
+        },
+        {
+          "name": "Fox Sports 3",
+          "image": "https://bestleague.world/img/foxsports3.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM0hE&lang=1"
+        },
+        {
+          "name": "Vtv",
+          "image": "https://bestleague.world/img/vtv.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VlRWX0hE&lang=1"
+        },
+        {
+          "name": "Deportv",
+          "image": "https://bestleague.world/img/deportv.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGVwb3JUVkhE&lang=1"
+        },
+        {
+          "name": "Nba Tv",
+          "image": "https://bestleague.world/img/nba.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TkJBX1RW&lang=1"
+        },
+        {
+          "name": "Discovery",
+          "image": "https://bestleague.world/img/discovery.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SEQ=&lang=1"
+        },
+        {
+          "name": "Discovery World",
+          "image": "https://bestleague.world/img/disworld.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1"
+        },
+        {
+          "name": "Discovery Theater",
+          "image": "https://bestleague.world/img/distheater.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VGhlYXRlcl9IRA==&lang=1"
+        },
+        {
+          "name": "Discovery Science",
+          "image": "https://bestleague.world/img/disscience.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1NjaWVuY2U=&lang=1"
+        },
+        {
+          "name": "Discovery Tlc",
+          "image": "https://bestleague.world/img/tlc.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VExD&lang=1"
+        },
+        {
+          "name": "Discovery Turbo",
+          "image": "https://bestleague.world/img/turbo.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5VHVyYm8=&lang=1"
+        },
+        {
+          "name": "Discovery Hyh",
+          "image": "https://bestleague.world/img/hyh.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE&lang=1"
+        },
+        {
+          "name": "Discovery Id",
+          "image": "https://bestleague.world/img/id.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SUQ=&lang=1"
+        },
+        {
+          "name": "Lifetime",
+          "image": "https://bestleague.world/img/lifetime.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TGlmZXRpbWU=&lang=1"
+        },
+        {
+          "name": "History",
+          "image": "https://bestleague.world/img/history.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeUhE&lang=1"
+        },
+        {
+          "name": "History 2",
+          "image": "https://bestleague.world/img/history2.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeV8y&lang=1"
+        },
+        {
+          "name": "Animal Planet",
+          "image": "https://bestleague.world/img/aplanet.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QW5pbWFsUGxhbmV0&lang=1"
+        },
+        {
+          "name": "Natgeo",
+          "image": "https://bestleague.world/img/natgeo.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=TmF0R2VvSEQ=&lang=1"
+        },
+        {
+          "name": "Telemax",
+          "image": "https://bestleague.world/img/telemax.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW1heA&lang=1"
+        },
+        {
+          "name": "Film And Arts",
+          "image": "https://bestleague.world/img/film.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RmlsbV9BcnRz&lang=1"
+        },
+        {
+          "name": "Sun",
+          "image": "https://bestleague.world/img/sun.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=U3VuX0NoYW5uZWw=&lang=1"
+        },
+        {
+          "name": "Food Network",
+          "image": "https://bestleague.world/img/food.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rm9vZF9OZXR3b3Jr&lang=1"
+        },
+        {
+          "name": "Gourmet",
+          "image": "https://bestleague.world/img/Group.svg",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=R291cm1ldA==&lang=1"
+        },
+        {
+          "name": "Comedy Central",
+          "image": "https://bestleague.world/img/comedy.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q29tZWR5Q2VudHJhbA&lang=1"
+        },
+        {
+          "name": "Telemundo Internacional",
+          "image": "https://bestleague.world/img/telemundo.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW11bmRvX0hE&lang=1"
+        },
+        {
+          "name": "Ae",
+          "image": "https://bestleague.world/img/ae.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QUVIRA==&lang=1"
+        },
+        {
+          "name": "Cinecanal",
+          "image": "https://bestleague.world/img/cinecanal.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1"
+        },
+        {
+          "name": "Tnt",
+          "image": "https://bestleague.world/img/tnt.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1"
+        },
+        {
+          "name": "Tnt Series",
+          "image": "https://bestleague.world/img/tntseries.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VE5UU2VyaWVz&lang=1"
+        },
+        {
+          "name": "Tnt Novelas",
+          "image": "https://bestleague.world/img/tntnovelas.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VEJT&lang=1"
+        },
+        {
+          "name": "Fx",
+          "image": "https://bestleague.world/img/fx.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RlhIRA==&lang=1"
+        },
+        {
+          "name": "Warner",
+          "image": "https://bestleague.world/img/warner.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=V2FybmVySEQ=&lang=1"
+        },
+        {
+          "name": "Cinemax",
+          "image": "https://bestleague.world/img/cinemax.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZW1heA==&lang=1"
+        },
+        {
+          "name": "Space",
+          "image": "https://bestleague.world/img/space.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=U3BhY2U=&lang=1"
+        },
+        {
+          "name": "Star Channel",
+          "image": "https://bestleague.world/img/star.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rk9YSEQ=&lang=1"
+        },
+        {
+          "name": "Studio Universal",
+          "image": "https://bestleague.world/img/studio.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1"
+        },
+        {
+          "name": "Sony Channel",
+          "image": "https://bestleague.world/img/sony.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=U29ueUhE&lang=1"
+        },
+        {
+          "name": "Paramount Network",
+          "image": "https://bestleague.world/img/paramount.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=UGFyYW1vdW50&lang=1"
+        },
+        {
+          "name": "Amc",
+          "image": "https://bestleague.world/img/amc.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QU1D&lang=1"
+        },
+        {
+          "name": "Axn",
+          "image": "https://bestleague.world/img/axn.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QVhOSEQ=&lang=1"
+        },
+        {
+          "name": "Tcm",
+          "image": "https://bestleague.world/img/tcm.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VENN&lang=1"
+        },
+        {
+          "name": "E",
+          "image": "https://bestleague.world/img/e.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1"
+        },
+        {
+          "name": "A3cine",
+          "image": "https://bestleague.world/img/a3cine.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=QTNfQ2luZQ==&lang=1"
+        },
+        {
+          "name": "Cinear",
+          "image": "https://bestleague.world/img/cinear.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SU5DQUFfVHY=&lang=1"
+        },
+        {
+          "name": "HBO",
+          "image": "https://bestleague.world/img/hbo.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd"
+        },
+        {
+          "name": "HBO 2",
+          "image": "https://bestleague.world/img/hbo2.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SEJPXzI=&lang=1"
+        },
+        {
+          "name": "HBO Plus",
+          "image": "https://bestleague.world/img/hboplus.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd"
+        },
+        {
+          "name": "HBO Family",
+          "image": "https://bestleague.world/img/hbofam.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd"
+        },
+        {
+          "name": "HBO Xtreme",
+          "image": "https://bestleague.world/img/hboxtreme.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd"
+        },
+        {
+          "name": "HBO Mundi",
+          "image": "https://bestleague.world/img/hboxtreme.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd"
+        },
+        {
+          "name": "HBO Pop",
+          "image": "https://bestleague.world/img/hbopop.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd"
+        },
+        {
+          "name": "Hbo Sig",
+          "image": "https://bestleague.world/img/hbosig.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=SEJPX1NpZ25hdHVyZQ==&lang=1"
+        },
+        {
+          "name": "Universal Cinema",
+          "image": "https://bestleague.world/img/universalcinema.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1"
+        },
+        {
+          "name": "Universal Crime",
+          "image": "https://bestleague.world/img/universalcrime.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd"
+        },
+        {
+          "name": "Universal Comedy",
+          "image": "https://bestleague.world/img/universalcomedy.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1"
+        },
+        {
+          "name": "Universal Reality",
+          "image": "https://bestleague.world/img/universalreality.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1"
+        },
+        {
+          "name": "Universal Premiere",
+          "image": "https://bestleague.world/img/universalpremiere.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd"
+        },
+        {
+          "name": "Golden",
+          "image": "https://bestleague.world/img/Logo_Golden_TV.svg",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd"
+        },
+        {
+          "name": "Estrellas",
+          "image": "https://bestleague.world/img/estrellas.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==&lang=1"
+        },
+        {
+          "name": "Adult Swim",
+          "image": "https://bestleague.world/img/adults.png",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd"
+        },
+        {
+          "name": "Cartoon Network",
+          "image": "https://bestleague.world/img/cn.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Q2FydG9vbk5ldHdvcms=&lang=1"
+        },
+        {
+          "name": "Cartoonito",
+          "image": "https://bestleague.world/img/cart.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Qm9vbWVyYW5n&lang=1"
+        },
+        {
+          "name": "Disney Channel",
+          "image": "https://bestleague.world/img/disney.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzbmV5Q2hhbm5lbEhE&lang=1"
+        },
+        {
+          "name": "Disney Jr",
+          "image": "https://bestleague.world/img/disneyjr.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd"
+        },
+        {
+          "name": "Discovery Kids",
+          "image": "https://bestleague.world/img/diskids.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1"
+        },
+        {
+          "name": "Nick",
+          "image": "https://bestleague.world/img/nick.png",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1"
+        },
+        {
+          "name": "Nickjr",
+          "image": "https://bestleague.world/img/nickjr.webp",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd"
+        },
+        {
+          "name": "DreamWorks",
+          "image": "https://bestleague.world/img/dream.png",
+          "online": "true",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd"
+        },
+        {
+          "name": "Flow Music",
+          "image": "https://bestleague.world/img/flowmusic.webp",
+          "online": "true",
+          "url": "https://www.nebunexa.life/cvatt.html?get=Rmxvd19NdXNpY19YUA==&lang=1"
+        }
+      ]
+    }
+  ]
+}
