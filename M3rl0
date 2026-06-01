@@ -874,3 +874,869 @@
     }
   ]
 }
+[  
+  {
+    "id": "estacionradio",
+    "name": "Estacion Radio",
+    "logo": "https://cdn.instant.audio/images/logos/radioarg-com/estacion-radio.png",
+    "url": "https://server.laradio.online/proxy/diego_gramigna?mp=/stream",
+    "group": "Radio",
+    "type": "live"
+  },
+ {
+    "id": "tnt-sports 12-5",
+    "name": "Tnt Sports",
+    "logo": "https://gollibre.com/img/tntsports.png",
+    "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+    "group": "TNT SPORTS",
+    "type": "live"
+  },
+  {
+    "id": "radiovos",
+    "name": "Radio Vos",
+    "logo": "https://www.radiovos955.com/wp-content/uploads/2018/03/logo955.png",
+    "url": "https://frontend.radiohdvivo.com/radiovos955/live",
+    "group": "Radio",
+    "type": "live"
+  },
+  {
+    "id": "telefe2",
+    "name": "TELEFE",
+    "logo": "https://bestleague.world/img/telefe.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZWZlSEQ=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "el-trece",
+    "name": "El Trece",
+    "logo": "https://bestleague.world/img/eltrece.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QXJ0ZWFySEQ&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "el-nueve",
+    "name": "El Nueve",
+    "logo": "https://bestleague.world/img/nueve.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw5&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "tv-publica",
+    "name": "Tv Publica",
+    "logo": "https://bestleague.world/img/tvpublica.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWw3&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "america-tv",
+    "name": "America Tv",
+    "logo": "https://bestleague.world/img/america.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYVRW&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "cronica",
+    "name": "Cronica",
+    "logo": "https://bestleague.world/img/cronica.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q3JvbmljYVRW&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "c5n",
+    "name": "C5n",
+    "logo": "https://bestleague.world/img/c5n.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QzVO&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "tn",
+    "name": "Tn",
+    "logo": "https://bestleague.world/img/tn.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VG9kb05vdGljaWFz&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "a24",
+    "name": "A24",
+    "logo": "https://bestleague.world/img/a24.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QW1lcmljYTI0&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "canal-26",
+    "name": "Canal 26",
+    "logo": "https://bestleague.world/img/canal26.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=MjZfVFZfSEQ&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "ln",
+    "name": "Ln",
+    "logo": "https://bestleague.world/img/ln.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TGFfTmFjaW9u&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "dtv",
+    "name": "Dtv",
+    "logo": "https://bestleague.world/img/dtv.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlwdXRhZG9zX1RW&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "volver",
+    "name": "Volver",
+    "logo": "https://bestleague.world/img/volver.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Vm9sdmVy&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "ciudad-magazine",
+    "name": "Ciudad Magazine",
+    "logo": "https://bestleague.world/img/ciudad.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TWFnYXppbmU=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "bravotv",
+    "name": "Bravotv",
+    "logo": "https://bestleague.world/img/bravotv.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QnJhdm9UVg==&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "nettv",
+    "name": "Nettv",
+    "logo": "https://bestleague.world/img/nettv.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TmV0X1RW&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "ip",
+    "name": "Ip",
+    "logo": "https://bestleague.world/img/ip.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "encuentro",
+    "name": "Encuentro",
+    "logo": "https://bestleague.world/img/encuentro.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RW5jdWVudHJv&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "canaldelaciudad",
+    "name": "Canaldelaciudad",
+    "logo": "https://bestleague.world/img/canaldelaciudad.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFfY2l1ZGFk&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "metro",
+    "name": "Metro",
+    "logo": "https://bestleague.world/img/metro.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "kzo",
+    "name": "Kzo",
+    "logo": "https://bestleague.world/img/kzowhite.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TWV0cm8=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "canal12cordoba",
+    "name": "Canal12cordoba",
+    "logo": "https://bestleague.world/img/docor.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfMTJfQ0JB&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "argentinisima",
+    "name": "Argentinisima",
+    "logo": "https://bestleague.world/img/arsat.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QXJnZW50aW5pc2ltYQ&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "rural",
+    "name": "Rural",
+    "logo": "https://bestleague.world/img/rural.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfUnVyYWw=&lang=1",
+    "group": "Argentina",
+    "type": "live"
+  },
+  {
+    "id": "tyc-sports",
+    "name": "Tyc Sports",
+    "logo": "https://bestleague.world/img/tyc.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VHlDU3BvcnQ&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "tnt-sports",
+    "name": "Tnt Sports",
+    "logo": "https://gollibre.com/img/tntsports.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-premium",
+    "name": "Espn Premium",
+    "logo": "https://bestleague.world/img/espnpr.webp",
+    "url": "https://can27-05cablepatodoscanembplaeer-flo3.blogspot.com/p/todosossscaaanfloooop3.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-premium-opc-2",
+    "name": "Espn Premium opc 2",
+    "logo": "https://bestleague.world/img/espnpr.webp",
+    "url": "https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=5640a27bbc3e171e9d34b2f71fbb1198ae8f2ae6-d-1773286301-1773268301",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn",
+    "name": "Espn",
+    "logo": "https://bestleague.world/img/espn.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJIRA&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-2",
+    "name": "Espn 2",
+    "logo": "https://bestleague.world/img/espn2.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjJfQXJn&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-3",
+    "name": "Espn 3",
+    "logo": "https://bestleague.world/img/espn3.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjM=&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-4",
+    "name": "Espn 4",
+    "logo": "https://bestleague.world/img/espn4.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTkhE&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-5",
+    "name": "Espn 5",
+    "logo": "https://bestleague.world/img/espn5.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RVNQTjQ=&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-6",
+    "name": "Espn 6",
+    "logo": "https://bestleague.world/img/espn6.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM19VWQ==&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "espn-7",
+    "name": "Espn 7",
+    "logo": "https://bestleague.world/img/espn7.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMl9VWQ==&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "fox-sports",
+    "name": "Fox Sports",
+    "logo": "https://bestleague.world/img/foxsports.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRz&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "fox-sports-2",
+    "name": "Fox Sports 2",
+    "logo": "https://bestleague.world/img/foxsports2.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzMkhE&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "fox-sports-3",
+    "name": "Fox Sports 3",
+    "logo": "https://bestleague.world/img/foxsports3.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm94U3BvcnRzM0hE&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "vtv",
+    "name": "Vtv",
+    "logo": "https://bestleague.world/img/vtv.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VlRWX0hE&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "deportv",
+    "name": "Deportv",
+    "logo": "https://bestleague.world/img/deportv.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGVwb3JUVkhE&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "nba-tv",
+    "name": "Nba Tv",
+    "logo": "https://bestleague.world/img/nba.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TkJBX1RW&lang=1",
+    "group": "Deportes",
+    "type": "live"
+  },
+  {
+    "id": "discovery",
+    "name": "Discovery",
+    "logo": "https://bestleague.world/img/discovery.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SEQ=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-world",
+    "name": "Discovery World",
+    "logo": "https://bestleague.world/img/disworld.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-theater",
+    "name": "Discovery Theater",
+    "logo": "https://bestleague.world/img/distheater.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VGhlYXRlcl9IRA==&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-science",
+    "name": "Discovery Science",
+    "logo": "https://bestleague.world/img/disscience.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X1NjaWVuY2U=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-tlc",
+    "name": "Discovery Tlc",
+    "logo": "https://bestleague.world/img/tlc.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VExD&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "logo": "https://bestleague.world/img/turbo.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5VHVyYm8=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-hyh",
+    "name": "Discovery Hyh",
+    "logo": "https://bestleague.world/img/hyh.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "discovery-id",
+    "name": "Discovery Id",
+    "logo": "https://bestleague.world/img/id.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SUQ=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "lifetime",
+    "name": "Lifetime",
+    "logo": "https://bestleague.world/img/lifetime.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TGlmZXRpbWU=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "logo": "https://bestleague.world/img/history.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeUhE&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "history-2",
+    "name": "History 2",
+    "logo": "https://bestleague.world/img/history2.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SGlzdG9yeV8y&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "animal-planet",
+    "name": "Animal Planet",
+    "logo": "https://bestleague.world/img/aplanet.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QW5pbWFsUGxhbmV0&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "natgeo",
+    "name": "Natgeo",
+    "logo": "https://bestleague.world/img/natgeo.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=TmF0R2VvSEQ=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "telemax",
+    "name": "Telemax",
+    "logo": "https://bestleague.world/img/telemax.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW1heA&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "film-and-arts",
+    "name": "Film And Arts",
+    "logo": "https://bestleague.world/img/film.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RmlsbV9BcnRz&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "sun",
+    "name": "Sun",
+    "logo": "https://bestleague.world/img/sun.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=U3VuX0NoYW5uZWw=&lang=1",
+    "group": "Documentales",
+    "type": "live"
+  },
+  {
+    "id": "food-network",
+    "name": "Food Network",
+    "logo": "https://bestleague.world/img/food.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rm9vZF9OZXR3b3Jr&lang=1",
+    "group": "Otros",
+    "type": "live"
+  },
+  {
+    "id": "gourmet",
+    "name": "Gourmet",
+    "logo": "https://bestleague.world/img/Group.svg",
+    "url": "https://www.nebunexa.life/cvatt.html?get=R291cm1ldA==&lang=1",
+    "group": "Otros",
+    "type": "live"
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central",
+    "logo": "https://bestleague.world/img/comedy.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q29tZWR5Q2VudHJhbA&lang=1",
+    "group": "Entretenimiento",
+    "type": "live"
+  },
+  {
+    "id": "telemundo-internacional",
+    "name": "Telemundo Internacional",
+    "logo": "https://bestleague.world/img/telemundo.png",
+   "url": "https://www.nebunexa.life/cvatt.html?get=VGVsZW11bmRvX0hE&lang=1",
+    "group": "Entretenimiento",
+    "type": "live"
+  },
+  {
+    "id": "ae",
+    "name": "Ae",
+    "logo": "https://bestleague.world/img/ae.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QUVIRA==&lang=1",
+    "group": "Entretenimiento",
+    "type": "live"
+  },
+  {
+    "id": "cinecanal",
+    "name": "Cinecanal",
+    "logo": "https://bestleague.world/img/cinecanal.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZWNhbmFsSEQ=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "tnt",
+    "name": "Tnt",
+    "logo": "https://bestleague.world/img/tnt.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UX0hEX0FyZw==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "tnt-series",
+    "name": "Tnt Series",
+    "logo": "https://bestleague.world/img/tntseries.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VE5UU2VyaWVz&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "tnt-novelas",
+    "name": "Tnt Novelas",
+    "logo": "https://bestleague.world/img/tntnovelas.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VEJT&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "fx",
+    "name": "Fx",
+    "logo": "https://bestleague.world/img/fx.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RlhIRA==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "warner",
+    "name": "Warner",
+    "logo": "https://bestleague.world/img/warner.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=V2FybmVySEQ=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "cinemax",
+    "name": "Cinemax",
+    "logo": "https://bestleague.world/img/cinemax.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2luZW1heA==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "logo": "https://bestleague.world/img/space.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=U3BhY2U=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "star-channel",
+    "name": "Star Channel",
+    "logo": "https://bestleague.world/img/star.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rk9YSEQ=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "studio-universal",
+    "name": "Studio Universal",
+    "logo": "https://bestleague.world/img/studio.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "sony-channel",
+    "name": "Sony Channel",
+    "logo": "https://bestleague.world/img/sony.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=U29ueUhE&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "paramount-network",
+    "name": "Paramount Network",
+    "logo": "https://bestleague.world/img/paramount.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=UGFyYW1vdW50&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "amc",
+    "name": "Amc",
+    "logo": "https://bestleague.world/img/amc.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QU1D&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "axn",
+    "name": "Axn",
+    "logo": "https://bestleague.world/img/axn.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QVhOSEQ=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "tcm",
+    "name": "Tcm",
+    "logo": "https://bestleague.world/img/tcm.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VENN&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "e",
+    "name": "E",
+    "logo": "https://bestleague.world/img/e.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "a3cine",
+    "name": "A3cine",
+    "logo": "https://bestleague.world/img/a3cine.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=QTNfQ2luZQ==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "cinear",
+    "name": "Cinear",
+    "logo": "https://bestleague.world/img/cinear.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SU5DQUFfVHY=&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "hbo",
+    "name": "HBO",
+    "logo": "https://bestleague.world/img/hbo.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-2",
+    "name": "HBO 2",
+    "logo": "https://bestleague.world/img/hbo2.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SEJPXzI=&lang=1",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-plus",
+    "name": "HBO Plus",
+    "logo": "https://bestleague.world/img/hboplus.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd",
+    "group": "Internacional",
+    "type": "live"
+  },
+  {
+    "id": "hbo-family",
+    "name": "HBO Family",
+    "logo": "https://bestleague.world/img/hbofam.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-xtreme",
+    "name": "HBO Xtreme",
+    "logo": "https://bestleague.world/img/hboxtreme.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-mundi",
+    "name": "HBO Mundi",
+    "logo": "https://bestleague.world/img/hboxtreme.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-pop",
+    "name": "HBO Pop",
+    "logo": "https://bestleague.world/img/hbopop.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "hbo-sig",
+    "name": "Hbo Sig",
+    "logo": "https://bestleague.world/img/hbosig.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=SEJPX1NpZ25hdHVyZQ==&lang=1",
+    "group": "Pack HBO",
+    "type": "live"
+  },
+  {
+    "id": "universal-cinema",
+    "name": "Universal Cinema",
+    "logo": "https://bestleague.world/img/universalcinema.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1",
+    "group": "Pack Universal",
+    "type": "live"
+  },
+  {
+    "id": "universal-crime",
+    "name": "Universal Crime",
+    "logo": "https://bestleague.world/img/universalcrime.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd",
+    "group": "Pack Universal",
+    "type": "live"
+  },
+  {
+    "id": "universal-comedy",
+    "name": "Universal Comedy",
+    "logo": "https://bestleague.world/img/universalcomedy.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1",
+    "group": "Pack Universal",
+    "type": "live"
+  },
+  {
+    "id": "universal-reality",
+    "name": "Universal Reality",
+    "logo": "https://bestleague.world/img/universalreality.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1",
+    "group": "Pack Universal",
+    "type": "live"
+  },
+  {
+    "id": "universal-premiere",
+    "name": "Universal Premiere",
+    "logo": "https://bestleague.world/img/universalpremiere.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd",
+    "group": "Pack Universal",
+    "type": "live"
+  },
+  {
+    "id": "golden",
+    "name": "Golden",
+    "logo": "https://bestleague.world/img/Logo_Golden_TV.svg",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "estrellas",
+    "name": "Estrellas",
+    "logo": "https://bestleague.world/img/estrellas.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==&lang=1",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "adult-swim",
+    "name": "Adult Swim",
+    "logo": "https://bestleague.world/img/adults.png",
+    "url": "https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd",
+    "group": "Cine y Series",
+    "type": "live"
+  },
+  {
+    "id": "cartoon-network",
+    "name": "Cartoon Network",
+    "logo": "https://bestleague.world/img/cn.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Q2FydG9vbk5ldHdvcms=&lang=1",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "cartoonito",
+    "name": "Cartoonito",
+    "logo": "https://bestleague.world/img/cart.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Qm9vbWVyYW5n&lang=1",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "disney-channel",
+    "name": "Disney Channel",
+    "logo": "https://bestleague.world/img/disney.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzbmV5Q2hhbm5lbEhE&lang=1",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "disney-jr",
+    "name": "Disney Jr",
+    "logo": "https://bestleague.world/img/disneyjr.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "discovery-kids",
+    "name": "Discovery Kids",
+    "logo": "https://bestleague.world/img/diskids.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "nick",
+    "name": "Nick",
+    "logo": "https://bestleague.world/img/nick.png",
+    "url": "https://www.nebunexa.life/cvatt.html?get=RGlzY292ZXJ5X0tpZHM=&lang=1",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "nickjr",
+    "name": "Nickjr",
+    "logo": "https://bestleague.world/img/nickjr.webp",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "dreamworks",
+    "name": "DreamWorks",
+    "logo": "https://bestleague.world/img/dream.png",
+    "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd",
+    "group": "Infantiles",
+    "type": "live"
+  },
+  {
+    "id": "flow-music",
+    "name": "Flow Music",
+    "logo": "https://bestleague.world/img/flowmusic.webp",
+    "url": "https://www.nebunexa.life/cvatt.html?get=Rmxvd19NdXNpY19YUA==&lang=1",
+    "group": "Musica",
+    "type": "live"
+  }
+]
